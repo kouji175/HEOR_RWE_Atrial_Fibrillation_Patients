@@ -38,9 +38,6 @@ QA: Using Proc COMPARE
 
 # Task C: Analysis tables
 
-Refer Mock Shell Document for list of reports to create.
-
-
 Input: Analysis ready SAS Dataset (with cohort records only)
 
 Output: Reports in PDF/RTF
