@@ -1143,11 +1143,16 @@ run;
 ods trace on;
 ods output HomTests=pvalue(where=(test in('Log-Rank','Wilcoxon')))
 Quartiles=qrts;
+ods graphics on;
+ods listing gpath='/home/u63531299/taskc/';
+ods graphics / imagename='km_plot' imagefmt=png;
+
 proc lifetest data=ands.os alpha=0.05 outsurv=outsurvl;
 time AVAL*CNSR(1);
 strata cohort;
 run;
 ods trace off;
+ods graphics off;
 
 data q_25(keep=cohort q_25 class) q_50(keep=cohort q_50 class)
 q_75(keep=cohort q_75 class) q_50_ci(keep=cohort cil class);
