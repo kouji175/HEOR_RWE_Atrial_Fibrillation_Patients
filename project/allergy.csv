@@ -1,0 +1,1444 @@
+﻿encounter_id,patient_id,status,allergy_description,severity,data_source
+563823,320358,active,NO KNOWN ALLERGIES,,Syn
+693686,155084,active,No Known Allergies,,Syn
+653089,160601,active,No Known Allergies,,Syn
+578746,20851,active,Penicillins,,Syn
+898865,237353,active,No Known Drug Allergies,,Syn
+898865,237353,active,No Known Allergies,,Syn
+977817,108970,active,No Known Allergies,,Syn
+940640,108970,active,No Known Allergies,,Syn
+979098,294333,active,Salicylates,,Syn
+979098,294333,active,cysteamine,,Syn
+979098,294333,active,penicillin G,,Syn
+979098,294333,active,Carbapenems,,Syn
+979098,294333,active,NSAIDS (Non-Steroidal Anti-Inflamma,,Syn
+979098,294333,active,Penicillins,,Syn
+979098,294333,active,Cephalosporins,,Syn
+979098,294333,active,Pyrazoles,,Syn
+979098,294333,active,Thiazides,,Syn
+979098,294333,active,penicillamine,,Syn
+650896,178779,active,No Known Allergies,,Syn
+659616,267993,active,No Known Allergies,,Syn
+778308,328337,active,No Known Allergies,,Syn
+638151,59566,active,Sulfa (Sulfonamide Antibiotics),,Syn
+633205,126127,active,No Known Allergies,,Syn
+538176,51832,active,baclofen,,Syn
+538176,51832,active,tetracycline,,Syn
+538176,51832,active,Sulfa (Sulfonamide Antibiotics),,Syn
+814857,153074,active,No Known Allergies,,Syn
+570846,7196,active,No Known Allergies,,Syn
+716888,7196,active,No Known Allergies,,Syn
+986552,7196,active,No Known Allergies,,Syn
+848255,74732,active,Penicillins,,Syn
+848255,74732,active,cephalexin (From KEFLEX),,Syn
+848255,74732,active,meloxicam,,Syn
+1022471,327544,active,No Known Allergy (No Known Allergies),,Syn
+696471,321181,active,No Known Allergies,,Syn
+537534,273941,active,Codeine,,Syn
+989678,7196,active,No Known Allergies,,Syn
+522238,7196,active,No Known Allergies,,Syn
+898034,7196,active,No Known Allergies,,Syn
+679330,30889,active,No Known Allergies,,Syn
+847297,146878,active,No Known Drug Allergies,,Syn
+800309,171660,active,trimethoprim (From Septra),,Syn
+800309,171660,active,penicillin G,,Syn
+800309,171660,active,sulfamethoxazole (From Septra),,Syn
+800309,171660,active,amoxicillin,,Syn
+519519,171660,active,latex,,Syn
+519519,171660,active,Fish Containing Products (Fish),,Syn
+519519,171660,active,amoxicillin,,Syn
+519519,171660,active,trimethoprim (From Septra),,Syn
+519519,171660,active,sulfamethoxazole (From Septra),,Syn
+519519,171660,active,penicillin G,,Syn
+830573,171660,active,amoxicillin,,Syn
+830573,171660,active,sulfamethoxazole (From Septra),,Syn
+830573,171660,active,trimethoprim (From Septra),,Syn
+830573,171660,active,latex,,Syn
+830573,171660,active,penicillin G,,Syn
+795416,171660,active,Fish Containing Products (Fish),,Syn
+795416,171660,active,trimethoprim (From Septra),,Syn
+795416,171660,active,amoxicillin,,Syn
+795416,171660,active,penicillin G,,Syn
+795416,171660,active,sulfamethoxazole (From Septra),,Syn
+923872,171660,active,sulfamethoxazole (From Septra),,Syn
+923872,171660,active,penicillin G,,Syn
+923872,171660,active,amoxicillin,,Syn
+923872,171660,active,trimethoprim (From Septra),,Syn
+512824,171660,active,"Iodinated Contrast- Oral and IV Dye (IV Dye, Iodine Containing)",,Syn
+512824,171660,active,latex,,Syn
+512824,171660,active,amoxicillin,,Syn
+512824,171660,active,penicillin G,,Syn
+512824,171660,active,trimethoprim (From Septra),,Syn
+512824,171660,active,sulfamethoxazole (From Septra),,Syn
+1047340,171660,active,penicillin G,,Syn
+537534,273941,active,Adhesives,,Syn
+683973,273941,active,Adhesives,,Syn
+683973,273941,active,Codeine,,Syn
+568745,341069,active,No Known Allergies,,Syn
+748869,337004,active,No Known Allergies,,Syn
+595137,337004,active,MS Aspirin (Aspirin),,Syn
+595137,337004,active,MS Ibuprofen (Ibuprofen),,Syn
+595137,337004,active,aspirin,,Syn
+595137,337004,active,MS Iodine (Iodine),,Syn
+595137,337004,active,MS Meperidine (From Demerol HCl),,Syn
+585903,337004,active,MS Iodine (Iodine),,Syn
+585903,337004,active,MS Meperidine (From Demerol HCl),,Syn
+585903,337004,active,MS Ibuprofen (Ibuprofen),,Syn
+585903,337004,active,MS Aspirin (Aspirin),,Syn
+517806,337004,active,MS Meperidine (From Demerol HCl),,Syn
+517806,337004,active,MS Ibuprofen (Ibuprofen),,Syn
+517806,337004,active,MS Iodine (Iodine),,Syn
+517806,337004,active,MS Aspirin (Aspirin),,Syn
+1047340,171660,active,sulfamethoxazole (From Septra),,Syn
+1047340,171660,active,amoxicillin,,Syn
+1047340,171660,active,latex,,Syn
+1047340,171660,active,trimethoprim (From Septra),,Syn
+848802,81478,active,No Known Drug Allergies,,Syn
+748890,81478,active,No Known Drug Allergies,,Syn
+884346,128261,active,No Known Allergies,,Syn
+799798,127214,active,No Known Allergies,,Syn
+567085,296462,active,NO KNOWN ALLERGY,,Syn
+922364,72069,active,Penicillins,,Syn
+922364,72069,active,Carbapenems,,Syn
+922364,72069,active,cysteamine,,Syn
+555075,108742,active,No Known Allergies,,Syn
+717929,154715,active,No Known Drug Allergy,,Syn
+745487,90258,active,No Known Drug Allergies,,Syn
+860031,144021,active,No Known Allergies,,Syn
+970286,113766,active,Sulfa (Sulfonamide Antibiotics),,Syn
+970286,113766,active,pyrilamine,,Syn
+979098,294333,active,aspirin,,Syn
+785378,10064,active,No Known Allergies,,Syn
+627162,10064,active,No Known Allergies,,Syn
+1021272,69394,active,aspirin,,Syn
+810877,69394,active,aspirin,,Syn
+969259,325108,active,amoxicillin,,Syn
+922364,72069,active,penicillamine,,Syn
+922364,72069,active,Cephalosporins,,Syn
+872311,261946,active,morphine,,Syn
+872311,261946,active,aspirin,,Syn
+872311,261946,active,lamotrigine (From Lamictal),,Syn
+983835,261946,active,ibuprofen,,Syn
+970286,113766,active,naproxen,,Syn
+526472,168879,active,No Known Drug Allergies,,Syn
+738951,168879,active,No Known Drug Allergies,,Syn
+732479,168879,active,No Known Drug Allergies,,Syn
+982887,351778,active,No Known Allergies,,Syn
+504680,190109,active,NO KNOWN ALLERGY,,Syn
+1017210,142456,active,No Known Allergies,,Syn
+816936,142456,active,No Known Allergies,,Syn
+673290,142456,active,No Known Allergies,,Syn
+661142,76077,active,No Known Allergies,,Syn
+1008706,30930,active,PEANUT,,Syn
+1008706,30930,active,AMOXICILLIN,,Syn
+846652,191585,active,No Known Allergies,,Syn
+901645,169226,active,No Known Allergies,,Syn
+938291,147202,active,Penicillins,,Syn
+770247,273923,active,No Known Allergies,,Syn
+799034,177689,active,No Known Drug Allergies,,Syn
+799034,177689,active,meperidine (From DEMEROL),,Syn
+692703,62611,active,No Known Allergies,,Syn
+717497,62611,active,No Known Allergies,,Syn
+807886,344567,active,No Known Allergies,,Syn
+593091,211086,active,No Known Allergies,,Syn
+973626,164366,active,No Known Allergies,,Syn
+654995,324330,active,No Known Allergies,,Syn
+983835,261946,active,lamotrigine (From Lamictal),,Syn
+983835,261946,active,morphine,,Syn
+867242,246175,active,No Known Drug Allergies,,Syn
+717111,104702,active,No Known Allergies,,Syn
+817664,184387,active,cats,,Syn
+805093,49049,active,No Known Allergies,,Syn
+830554,177689,active,meperidine (From DEMEROL),,Syn
+830554,177689,active,No Known Drug Allergies,,Syn
+773622,80184,active,No Known Allergies,,Syn
+723509,154622,active,levetiracetam (From Keppra),,Syn
+723509,154622,active,divalproex sodium (From Depakote),,Syn
+621069,310983,active,NO KNOWN ALLERGIES,,Syn
+971625,108213,active,Penicillins,,Syn
+971625,108213,active,Cephalosporins,,Syn
+971625,108213,active,Barbiturates,,Syn
+914190,146221,active,Penicillins,,Syn
+868778,146221,active,Penicillins,,Syn
+840483,136392,active,NO KNOWN DRUG ALLERGIES,,Syn
+866873,30930,active,AMOXICILLIN,,Syn
+866873,30930,active,PEANUT,,Syn
+760284,157800,active,No Known Allergies,,Syn
+614209,241395,active,MS Gabapentin (Gabapentin),,Syn
+951493,33481,active,No Known Allergies,,Syn
+644445,303470,active,Tetracyclines,,Syn
+913652,134201,active,hydrocodone,,Syn
+604618,134201,active,hydrocodone,,Syn
+777464,1225,active,No Known Drug Allergies,,Syn
+1042182,175806,active,levofloxacin (From LEVAQUIN),,Syn
+1042182,175806,active,iodine,,Syn
+951472,20520,active,No Known Allergies,,Syn
+895262,48862,active,No Known Allergies,,Syn
+571379,327607,active,No Known Allergies,,Syn
+518070,5132,active,No Known Allergy,,Syn
+845641,136526,active,No Known Allergies,,Syn
+903341,136526,active,No Known Allergies,,Syn
+636117,323535,active,Gabapentin,,Syn
+644445,303470,active,Penicillins (PCN),,Syn
+644445,303470,active,codeine,,Syn
+644445,303470,active,Sulfa (Sulfonamide Antibiotics),,Syn
+972155,91952,active,No Known Allergies,,Syn
+885951,91952,active,No Known Allergies,,Syn
+745822,249243,active,No Known Drug Allergies,,Syn
+756756,330054,active,valacyclovir HCl (From Valtrex),,Syn
+756756,330054,active,naproxen (From Naprosyn),,Syn
+756756,330054,active,tapentadol HCl (From NUCYNTA),,Syn
+968118,301106,active,clavulanic acid (From AUGMENTIN),,Syn
+968118,301106,active,amoxicillin (From AUGMENTIN),,Syn
+712160,349764,active,No Known Allergies,,Syn
+636117,323535,active,Penicillins,,Syn
+636117,323535,active,Morphine,,Syn
+880251,190751,active,No Known Allergies,,Syn
+718391,14339,active,NO KNOWN ALLERGIES,,Syn
+750389,275805,active,No Known Allergies,,Syn
+739490,26795,active,No Known Allergies,,Syn
+810926,229453,active,NO KNOWN DRUG ALLERGY,,Syn
+992334,229453,active,NO KNOWN DRUG ALLERGY,,Syn
+801762,229453,active,NO KNOWN DRUG ALLERGY,,Syn
+741849,249445,active,cat dander,,Syn
+741849,249445,active,nut - unspecified,,Syn
+640953,30095,active,ketorolac tromethamine (From Toradol),,Syn
+868319,68561,active,hayfever,,Syn
+939936,176909,active,No Known Allergies,,Syn
+856050,176909,active,No Known Allergies,,Syn
+975784,176909,active,No Known Allergies,,Syn
+746417,27270,active,No Known Drug Allergies,,Syn
+537944,143624,active,No Known Allergies,,Syn
+640953,30095,active,aspirin,,Syn
+640953,30095,active,NSAIDS (Non-Steroidal Anti-Inflamma,,Syn
+640953,30095,active,morphine,,Syn
+640953,30095,active,Penicillins,,Syn
+1000285,215528,active,No Known Allergies,,Syn
+702871,174058,active,codeine,,Syn
+930726,970,active,No Known Drug Allergies,,Syn
+576629,256393,active,aspirin,,Syn
+868258,308554,active,No Known Drug Allergies,,Syn
+793174,308554,active,No Known Drug Allergies,,Syn
+1048380,164634,active,No Known Allergies,,Syn
+829759,164634,active,No Known Allergies,,Syn
+840483,136392,active,Dust,,Syn
+735209,251094,active,No Known Allergies,,Syn
+746247,226349,active,NO KNOWN ALLERGY,,Syn
+971861,273254,active,azithromycin (From ZITHROMAX),,Syn
+841903,229852,active,No Known Allergies,,Syn
+769718,85747,active,hydrocodone,,Syn
+565277,249243,active,No Known Drug Allergies,,Syn
+633791,249243,active,No Known Drug Allergies,,Syn
+723911,181171,active,No Known Allergies (NKA),,Syn
+714254,200543,active,No Known Drug Allergies,,Syn
+872107,102255,active,No Known Allergies,,Syn
+899941,102255,active,No Known Allergies,,Syn
+862223,181048,active,No Known Allergies,,Syn
+1008227,219880,active,No Known Drug Allergies,,Syn
+504280,219880,active,No Known Drug Allergies,,Syn
+669225,319755,active,NSAIDS (Non-Steroidal Anti-Inflamma,,Syn
+669225,319755,active,Salicylates,,Syn
+669225,319755,active,Penicillins,,Syn
+954671,68157,active,No Known Allergies,,Syn
+981204,107415,active,No Known Allergies,,Syn
+667756,192634,active,No Known Allergies,,Syn
+994265,192634,active,No Known Allergies,,Syn
+1000765,204485,active,No Known Allergies,,Syn
+510572,204485,active,No Known Allergies,,Syn
+658854,204485,active,No Known Allergies,,Syn
+877748,204485,active,No Known Allergies,,Syn
+1015058,204485,active,No Known Allergies,,Syn
+843433,204485,active,No Known Allergies,,Syn
+857395,47876,active,ALLERGIES(INCLUDE LATEX):,,Syn
+986329,47876,active,ALLERGIES(INCLUDE LATEX):,,Syn
+805783,31332,active,adhesive,,Syn
+808957,337350,active,No Known Allergies,,Syn
+797558,249847,active,No Known Drug Allergies,,Syn
+880172,2240,active,oxycodone,,Syn
+773545,2240,active,oxycodone,,Syn
+512532,2240,active,oxycodone,,Syn
+669225,319755,active,cysteamine,,Syn
+669225,319755,active,Carbapenems,,Syn
+669225,319755,active,aspirin,,Syn
+669225,319755,active,Pyrazoles,,Syn
+820024,78881,active,No Known Allergies,,Syn
+747423,89965,active,No Known Allergies,,Syn
+943721,226801,active,morphine,,Syn
+943721,226801,active,codeine,,Syn
+943721,226801,active,hydromorphone (From DILAUDID),,Syn
+836207,226801,active,hydromorphone (From DILAUDID),,Syn
+836207,226801,active,codeine,,Syn
+1017655,226801,active,morphine,,Syn
+682515,164634,active,No Known Allergies,,Syn
+888593,80702,active,metformin,,Syn
+561225,278915,active,shellfish derived,,Syn
+561225,278915,active,Penicillins,,Syn
+793524,351560,active,No Known Allergies,,Syn
+717681,307504,active,Sulfa (Sulfonamide Antibiotics),,Syn
+710519,11201,active,No Known Allergies,,Syn
+510957,128323,active,No Known Allergies,,Syn
+680226,328250,active,No Known Drug Allergies,,Syn
+1005080,328217,active,cashew nut,,Syn
+1022162,114383,active,No Known Allergies,,Syn
+952405,177996,active,codeine,,Syn
+1049681,120840,active,No Known Allergies,,Syn
+547153,120840,active,No Known Allergies,,Syn
+557842,317928,active,NO KNOWN ALLERGIES,,Syn
+543898,102882,active,No Known Allergies,,Syn
+1009881,81223,active,None Allergies,,Syn
+998897,81223,active,None Allergies,,Syn
+788116,81223,active,None Allergies,,Syn
+669621,303549,active,Penicillins,,Syn
+669621,303549,active,codeine,,Syn
+669621,303549,active,diphenhydramine (From Benadryl),,Syn
+669621,303549,active,levofloxacin (From Levaquin),,Syn
+822441,350119,active,No Known Allergies,,Syn
+1017655,226801,active,hydromorphone (From DILAUDID),,Syn
+1017655,226801,active,codeine,,Syn
+952396,10180,active,No Known Allergies,,Syn
+693992,340761,active,No Known Allergies,,Syn
+928452,230195,active,Codeine,,Syn
+604694,4227,active,AMOXICILLIN,,Syn
+928477,179426,active,Penicillins,,Syn
+928477,179426,active,Sulfa (Sulfonamide Antibiotics),,Syn
+521715,179426,active,Penicillins,,Syn
+521715,179426,active,Sulfa (Sulfonamide Antibiotics),,Syn
+867446,155397,active,No Known Allergies,,Syn
+867112,221220,active,adhesive,,Syn
+600502,289217,active,No Known Drug Allergies,,Syn
+864777,248667,active,codeine,,Syn
+864777,248667,active,shellfish derived,,Syn
+900841,254373,active,No Known Allergies,,Syn
+1028304,35975,active,No Known Allergies,,Syn
+945017,243478,active,No Known Drug Allergies,,Syn
+742839,221220,active,adhesive,,Syn
+706092,281665,active,cat dander,,Syn
+694434,40433,active,tramadol,,Syn
+909236,149723,active,No Known Allergies,,Syn
+661982,13857,active,gabapentin,,Syn
+917400,13857,active,gabapentin,,Syn
+792948,276909,active,No Known Allergies,,Syn
+1019119,276909,active,No Known Allergies,,Syn
+825099,228690,active,Latex,,Syn
+625682,32841,active,latex,,Syn
+515286,68854,active,No Known Allergies,,Syn
+564124,203046,active,No Known Allergies,,Syn
+863291,108398,active,No Known Allergies,,Syn
+995650,181822,active,Penicillins,,Syn
+601631,181822,active,Penicillins,,Syn
+894377,181822,active,Penicillins,,Syn
+930346,167629,active,No Known Drug Allergies,,Syn
+639623,285543,active,No Known Allergies,,Syn
+935972,203046,active,No Known Allergies,,Syn
+951723,156227,active,NO KNOWN ALLERGIES,,Syn
+513624,156227,active,NO KNOWN ALLERGIES,,Syn
+513624,156227,active,Diphenhydramine (From Benadryl),,Syn
+705812,141861,active,No Known Allergies,,Syn
+572646,179163,active,No Known Allergies,,Syn
+583462,176331,active,No Known Allergies,,Syn
+911359,76283,active,gluten,,Syn
+911359,76283,active,adhesive tape,,Syn
+911359,76283,active,Sulfa (Sulfonamide Antibiotics),,Syn
+556083,76283,active,gluten,,Syn
+556083,76283,active,adhesive tape,,Syn
+745203,56967,active,No Known Drug Allergies,,Syn
+981651,139622,active,No Known Allergies,,Syn
+903168,139622,active,No Known Allergies,,Syn
+781881,139622,active,No Known Allergies,,Syn
+793026,207521,active,morphine,,Syn
+638402,349213,active,No Known Allergies,,Syn
+991911,285543,active,No Known Allergies,,Syn
+988047,285543,active,No Known Allergies,,Syn
+692782,285543,active,No Known Allergies,,Syn
+704657,285543,active,No Known Allergies,,Syn
+683354,285543,active,No Known Allergies,,Syn
+907561,227748,active,No Known Allergies,,Syn
+1008565,130461,active,No Known Allergies,,Syn
+625500,19407,active,coconut,,Syn
+940358,19407,active,coconut,,Syn
+627892,289981,active,NKA,,Syn
+709486,19675,active,No Known Allergies,,Syn
+709263,19675,active,No Known Allergies,,Syn
+763179,231500,active,No Known Allergies,,Syn
+823126,279591,active,No Known Allergies,,Syn
+871899,309991,active,NO KNOWN ALLERGIES,,Syn
+950638,309991,active,NO KNOWN ALLERGIES,,Syn
+931944,256876,active,No Known Allergies,,Syn
+921995,23416,active,NO KNOWN ALLERGIES,,Syn
+781476,217484,active,grass pollen,,Syn
+796635,60859,active,No Known Allergy (No Known Allergies),,Syn
+637482,288759,active,No Known Allergies,,Syn
+919240,128214,active,No Known Drug Allergies,,Syn
+719351,128214,active,No Known Drug Allergies,,Syn
+701249,98275,active,No Known Allergies,,Syn
+694332,23416,active,NO KNOWN ALLERGIES,,Syn
+1020890,350393,active,venlafaxine (From Effexor),,Syn
+988362,354118,active,No Known Allergies,,Syn
+861014,47322,active,No Known Allergies,,Syn
+812423,205693,active,No Known Allergies,,Syn
+571506,284653,active,NO KNOWN ALLERGY,,Syn
+837123,115419,active,No Known Drug Allergy,,Syn
+676853,104239,active,No Known Allergies,,Syn
+887249,87618,active,No Known Allergies,,Syn
+693859,103319,active,adhesive,,Syn
+693859,103319,active,oxycodone HCl (From Percocet),,Syn
+557011,103319,active,adhesive,,Syn
+556083,76283,active,Sulfa (Sulfonamide Antibiotics),,Syn
+756522,157566,active,loratadine (From Claritin),,Syn
+619803,157566,active,loratadine (From Claritin),,Syn
+560215,34472,active,Penicillins,,Syn
+560215,34472,active,No Known Drug Allergies,,Syn
+761657,185563,active,meperidine HCl (From Demerol),,Syn
+1018814,19675,active,No Known Allergies,,Syn
+659067,19675,active,No Known Allergies,,Syn
+875185,7488,active,No Known Allergies,,Syn
+572781,275418,active,No Known Drug Allergies,,Syn
+942277,79827,active,hydrocodone,,Syn
+942277,79827,active,amoxicillin,,Syn
+557011,103319,active,oxycodone HCl (From Percocet),,Syn
+890190,178768,active,No Known Allergies,,Syn
+931074,29569,active,No Known Allergies,,Syn
+855314,179154,active,mushroom,,Syn
+855314,179154,active,Penicillins,,Syn
+755066,179154,active,mushroom,,Syn
+644498,79827,active,amoxicillin,,Syn
+644498,79827,active,hydrocodone,,Syn
+774873,79827,active,amoxicillin,,Syn
+774873,79827,active,hydrocodone,,Syn
+807246,300384,active,No Known Allergies,,Syn
+807031,251448,active,No Known Allergies,,Syn
+755066,179154,active,Penicillins,,Syn
+1048617,112615,active,NO KNOWN DRUG ALLERGIES,,Syn
+924697,112615,active,NO KNOWN DRUG ALLERGIES,,Syn
+1028329,17581,active,No Known Allergies,,Syn
+908711,17581,active,No Known Allergies,,Syn
+633897,58831,active,No Known Allergy,,Syn
+874958,154353,active,metoclopramide HCl (From Reglan),,Syn
+856040,44790,active,No Known Allergies,,Syn
+605116,165167,active,latex,,Syn
+605116,165167,active,meperidine (From DEMEROL),,Syn
+889077,165167,active,latex,,Syn
+889077,165167,active,meperidine (From DEMEROL),,Syn
+526369,96585,active,No Known Allergies,,Syn
+701271,96585,active,No Known Allergies (NKA),,Syn
+933107,311298,active,No Known Allergies,,Syn
+601656,162393,active,Sulfa (Sulfonamide Antibiotics),,Syn
+637974,87993,active,No Known Allergies,,Syn
+626123,306587,active,cefprozil,,Syn
+1036218,165167,active,meperidine (From DEMEROL),,Syn
+1036218,165167,active,latex,,Syn
+904587,165167,active,meperidine (From DEMEROL),,Syn
+904587,165167,active,latex,,Syn
+912778,165167,active,meperidine (From DEMEROL),,Syn
+987989,323354,active,No Known Allergies,,Syn
+991558,284653,active,NO KNOWN ALLERGY,,Syn
+606085,230225,active,No Known Allergies,,Syn
+985124,178234,active,No Known Drug Allergies,,Syn
+1041182,31729,active,No Known Allergies,,Syn
+640191,278959,active,Sulfa (Sulfonamide Antibiotics),,Syn
+579312,313751,active,Penicillins,,Syn
+745863,323354,active,No Known Allergies,,Syn
+739487,236177,active,No Known Allergies,,Syn
+1035841,37907,active,Penicillins,,Syn
+874898,37907,active,Penicillins,,Syn
+637982,117706,active,Penicillins,,Syn
+637982,117706,active,Clavulanic Acid (From Augmentin),,Syn
+637982,117706,active,Adhesives,,Syn
+637982,117706,active,Lisinopril,,Syn
+637982,117706,active,Celecoxib (From Celebrex),,Syn
+637982,117706,active,Amoxicillin,,Syn
+637982,117706,active,Erythromycin,,Syn
+578096,245569,active,No Allergy Information Available,,Syn
+598190,245569,active,No Allergy Information Available,,Syn
+514136,93988,active,ibuprofen,,Syn
+514136,93988,active,oxycodone,,Syn
+514136,93988,active,codeine,,Syn
+889557,93988,active,codeine,,Syn
+889557,93988,active,oxycodone,,Syn
+579312,313751,active,Sulfa (Sulfonamide Antibiotics),,Syn
+579312,313751,active,shellfish derived,,Syn
+579312,313751,active,cephalexin (From KEFLEX),,Syn
+722651,158642,active,Codeine,,Syn
+903972,119656,active,No Known Allergies,,Syn
+619702,119656,active,No Known Allergies,,Syn
+620785,119656,active,No Known Allergies,,Syn
+949799,84799,active,ezetimibe (From Zetia),,Syn
+949799,84799,active,trimethobenzamide (From Tigan),,Syn
+742678,84799,active,trimethobenzamide (From Tigan),,Syn
+742678,84799,active,ezetimibe (From Zetia),,Syn
+555329,84799,active,ezetimibe (From Zetia),,Syn
+555329,84799,active,trimethobenzamide (From Tigan),,Syn
+513185,113203,active,No Allergy Information Available,,Syn
+543836,113203,active,No Allergy Information Available,,Syn
+863227,118352,active,lisinopril,,Syn
+702067,118352,active,lisinopril,,Syn
+939401,118352,active,lisinopril,,Syn
+889557,93988,active,ibuprofen,,Syn
+921491,93988,active,ibuprofen,,Syn
+921491,93988,active,codeine,,Syn
+921491,93988,active,oxycodone,,Syn
+867418,287553,active,No Known Drug Allergies,,Syn
+896816,287553,active,No Known Drug Allergies,,Syn
+729874,62934,active,erythromycin base,,Syn
+729874,62934,active,penicillin G,,Syn
+531215,6787,active,penicillin G,,Syn
+936560,289071,active,vancomycin,,Syn
+936560,289071,active,trimethoprim (From Bactrim),,Syn
+936560,289071,active,sulfamethoxazole (From Bactrim),,Syn
+658855,24694,active,No Known Drug Allergies,,Syn
+788642,117557,active,No Known Allergies,,Syn
+784236,117557,active,No Known Allergies,,Syn
+560768,322969,active,clavulanic acid (From Augmentin),,Syn
+560768,322969,active,erythromycin base,,Syn
+560768,322969,active,Metoclopramide (From Reglan),,Syn
+560768,322969,active,amoxicillin (From Augmentin),,Syn
+560768,322969,active,tramadol,,Syn
+739339,322969,active,Metoclopramide (From Reglan),,Syn
+739339,322969,active,Latex,,Syn
+739339,322969,active,clavulanic acid,,Syn
+739339,322969,active,Erythromycin,,Syn
+739339,322969,active,tramadol,,Syn
+647677,322969,active,Amoxicillin (From Augmentin),,Syn
+647677,322969,active,Erythromycin,,Syn
+647677,322969,active,clavulanic acid,,Syn
+647677,322969,active,Tramadol,,Syn
+647677,322969,active,Metoclopramide (From Reglan),,Syn
+626123,306587,active,codeine,,Syn
+800957,169564,active,No Known Allergies,,Syn
+906793,244531,active,hydrocodone,,Syn
+906793,244531,active,codeine,,Syn
+1009351,51914,active,AMOXICILLIN,,Syn
+803699,121733,active,No Known Allergies,,Syn
+822379,111656,active,No Known Allergies,,Syn
+520904,106207,active,NKA,,Syn
+793763,273980,active,No Known Allergies,,Syn
+569595,109587,active,aspirin,,Syn
+569595,109587,active,codeine,,Syn
+569595,109587,active,metoclopramide (From REGLAN),,Syn
+569595,109587,active,Penicillins,,Syn
+569595,109587,active,nickel,,Syn
+695794,109587,active,nickel,,Syn
+695794,109587,active,metoclopramide (From REGLAN),,Syn
+695794,109587,active,aspirin,,Syn
+695794,109587,active,codeine,,Syn
+695794,109587,active,Penicillins,,Syn
+830899,109587,active,aspirin,,Syn
+830899,109587,active,metoclopramide (From REGLAN),,Syn
+830899,109587,active,Penicillins,,Syn
+830899,109587,active,nickel,,Syn
+830899,109587,active,codeine,,Syn
+996273,118912,active,Penicillins,,Syn
+996273,118912,active,apple,,Syn
+983017,274726,active,No Known Allergies,,Syn
+642979,24800,active,No Known Drug Allergies,,Syn
+985371,324493,active,No Known Allergies,,Syn
+568987,238253,active,No Known Drug Allergies,,Syn
+890097,322969,active,Erythromycin,,Syn
+890097,322969,active,Clavulanic Acid (From Augmentin),,Syn
+890097,322969,active,Amoxicillin (From Augmentin),,Syn
+890097,322969,active,Tramadol,,Syn
+890097,322969,active,Metoclopramide (From Reglan),,Syn
+634389,270241,active,No Known Allergies,,Syn
+962326,223454,active,Penicillins,,Syn
+878382,354586,active,Penicillins,,Syn
+732116,109992,active,NO KNOWN ALLERGY,,Syn
+598938,109992,active,NO KNOWN ALLERGY,,Syn
+981079,225683,active,Penicillins,,Syn
+589368,225683,active,Penicillins,,Syn
+1035123,245476,active,No Known Allergies,,Syn
+789997,50661,active,No Known Allergies,,Syn
+1025500,113836,active,Sulfa (Sulfonamide Antibiotics),,Syn
+1025500,113836,active,Penicillins,,Syn
+1025500,113836,active,ciprofloxacin (From CIPRO),,Syn
+1025500,113836,active,ondansetron (From ZOFRAN (AS HYDROCHLORIDE)),,Syn
+623873,238253,active,No Known Drug Allergies,,Syn
+705728,108309,active,lisinopril,,Syn
+709779,108309,active,lisinopril,,Syn
+969334,88285,active,No Known Allergies,,Syn
+748254,88285,active,No Known Allergies,,Syn
+854855,118985,active,No Known Allergies,,Syn
+794396,129231,active,No Known Allergies,,Syn
+955997,13449,active,No Known Allergies,,Syn
+571358,109878,active,risedronate sodium,,Syn
+571358,109878,active,indomethacin,,Syn
+571358,109878,active,Macrolide Antibiotics,,Syn
+571358,109878,active,felodipine,,Syn
+571358,109878,active,hydrocodone,,Syn
+571358,109878,active,tetracycline,,Syn
+571358,109878,active,ibuprofen,,Syn
+571358,109878,active,potassium clavulanate (From Augmentin),,Syn
+571358,109878,active,Sulfa (Sulfonamide Antibiotics),,Syn
+571358,109878,active,codeine,,Syn
+1004743,113836,active,ondansetron (From ZOFRAN (AS HYDROCHLORIDE)),,Syn
+1004743,113836,active,Penicillins,,Syn
+1004743,113836,active,ciprofloxacin (From CIPRO),,Syn
+1004743,113836,active,Sulfa (Sulfonamide Antibiotics),,Syn
+685772,204494,active,No Known Allergies (NKA),,Syn
+621264,164091,active,erythromycin base,,Syn
+525197,313048,active,aspirin,,Syn
+916541,216928,active,No Known Allergies,,Syn
+552825,161328,active,No Known Allergies,,Syn
+846300,18047,active,No Known Allergies,,Syn
+804193,305063,active,No Known Allergies,,Syn
+966824,71569,active,No Known Allergies,,Syn
+675507,225683,active,Penicillins,,Syn
+618105,62587,active,No Known Drug Allergies,,Syn
+668930,97597,active,INGREDIENT: NKDA - No Known Drug Allergies,,Syn
+584719,287597,active,Sulfa (Sulfonamide Antibiotics),,Syn
+584719,287597,active,Penicillins,,Syn
+842615,82085,active,No Known Allergies,,Syn
+715764,82085,active,No Known Allergies,,Syn
+742515,147377,active,No Known Allergies,,Syn
+598254,147377,active,No Known Allergies,,Syn
+951668,147377,active,No Known Allergies,,Syn
+669028,147377,active,No Known Allergies,,Syn
+752871,60043,active,No Known Allergies,,Syn
+730749,25869,active,codeine,,Syn
+1016525,197801,active,Penicillins,,Syn
+1016525,197801,active,naproxen,,Syn
+1016525,197801,active,amoxicillin,,Syn
+998323,197801,active,Penicillins,,Syn
+998323,197801,active,amoxicillin,,Syn
+571358,109878,active,amoxicillin,,Syn
+571358,109878,active,Penicillins,,Syn
+571358,109878,active,naproxen,,Syn
+571358,109878,active,azithromycin,,Syn
+780344,136784,active,No Known Drug Allergies,,Syn
+657317,225236,active,Penicillins,,Syn
+934412,247289,active,No Known Allergies,,Syn
+944724,112314,active,trimethoprim (From BACTRIM),,Syn
+944724,112314,active,sulfamethoxazole (From BACTRIM),,Syn
+944724,112314,active,erythromycin base,,Syn
+944724,112314,active,Penicillins,,Syn
+845516,182858,active,NO KNOWN ALLERGIES,,Syn
+621264,164091,active,No Known Drug Allergies,,Syn
+621264,164091,active,Penicillins,,Syn
+831121,140318,active,No Known Allergies,,Syn
+585800,353022,active,No Known Allergies,,Syn
+954837,280470,active,NO KNOWN ALLERGIES,,Syn
+740970,150926,active,No Known Allergies,,Syn
+590768,123642,active,No Known Allergies,,Syn
+532625,266534,active,No Known Allergies,,Syn
+681697,57008,active,No Known Allergies,,Syn
+653584,152609,active,levofloxacin,,Syn
+653584,152609,active,tramadol,,Syn
+653584,152609,active,No Known Allergies,,Syn
+581626,40044,active,NO KNOWN ALLERGIES,,Syn
+664223,70929,active,Unobtainable,,Syn
+1003014,47516,active,No Known Drug Allergies,,Syn
+611870,47516,active,No Known Drug Allergies,,Syn
+648289,47516,active,No Known Drug Allergies,,Syn
+989721,74039,active,No Known Allergies,,Syn
+765628,276929,active,No Known Allergies,,Syn
+1027736,263197,active,No Known Allergies,,Syn
+884896,291729,active,No Known Allergies,,Syn
+831135,291729,active,No Known Allergies,,Syn
+944799,291729,active,No Known Allergies,,Syn
+923018,258003,active,None Allergies,,Syn
+653584,152609,active,"Latex, Natural Rubber",,Syn
+618205,239234,active,No Known Allergies,,Syn
+866477,239234,active,No Known Allergies,,Syn
+629451,225008,active,azithromycin (From ZITHROMAX),,Syn
+629451,225008,active,Penicillins,,Syn
+629451,225008,active,codeine,,Syn
+629451,225008,active,Sulfa (Sulfonamide Antibiotics),,Syn
+629451,225008,active,morphine,,Syn
+629451,225008,active,tetracycline,,Syn
+1036917,142118,active,sulfamethoxazole (From Bactrim),,Syn
+1036917,142118,active,trimethoprim (From Bactrim),,Syn
+918839,142118,active,sulfamethoxazole (From Bactrim),,Syn
+918839,142118,active,trimethoprim (From Bactrim),,Syn
+915782,142118,active,trimethoprim (From Bactrim),,Syn
+915782,142118,active,sulfamethoxazole (From Bactrim),,Syn
+604797,142118,active,sulfamethoxazole (From Bactrim),,Syn
+604797,142118,active,trimethoprim (From Bactrim),,Syn
+599644,142118,active,trimethoprim (From Bactrim),,Syn
+998323,197801,active,naproxen,,Syn
+532709,34976,active,No Known Allergies,,Syn
+518604,34976,active,No Known Allergies,,Syn
+760020,324692,active,No Known Allergies,,Syn
+834221,38721,active,No Known Allergies,,Syn
+796360,15995,active,NO KNOWN DRUG ALLERGIES,,Syn
+599644,142118,active,sulfamethoxazole (From Bactrim),,Syn
+892950,142118,active,trimethoprim (From Bactrim),,Syn
+892950,142118,active,sulfamethoxazole (From Bactrim),,Syn
+896827,142118,active,sulfamethoxazole (From Bactrim),,Syn
+896827,142118,active,trimethoprim (From Bactrim),,Syn
+768951,142118,active,sulfamethoxazole (From Bactrim),,Syn
+688582,40639,active,No Known Allergies,,Syn
+812773,40639,active,No Known Allergies,,Syn
+694317,258855,active,No Known Drug Allergies,,Syn
+586077,236133,active,No Known Allergies,,Syn
+786464,236133,active,No Known Allergies,,Syn
+733023,236133,active,No Known Allergies,,Syn
+642290,116529,active,NO KNOWN DRUG ALLERGY,,Syn
+823466,116529,active,NO KNOWN DRUG ALLERGY,,Syn
+904566,116529,active,NO KNOWN DRUG ALLERGY,,Syn
+512505,122513,active,No Known Allergies,,Syn
+606832,281066,active,oxycodone,,Syn
+606832,281066,active,aspirin,,Syn
+526785,185579,active,iodine,,Syn
+526785,185579,active,sodium iodide,,Syn
+526785,185579,active,potassium iodide,,Syn
+526785,185579,active,povidone-iodine,,Syn
+665691,240379,active,No Known Allergies,,Syn
+685200,197881,active,No Known Allergy,,Syn
+768951,142118,active,trimethoprim (From Bactrim),,Syn
+785805,142118,active,sulfamethoxazole (From Bactrim),,Syn
+785805,142118,active,trimethoprim (From Bactrim),,Syn
+916829,142118,active,sulfamethoxazole (From Bactrim),,Syn
+916829,142118,active,trimethoprim (From Bactrim),,Syn
+880077,289704,active,latex,,Syn
+700642,283628,active,No Known Allergies,,Syn
+605602,240162,active,MDX - Meperidine (From Meperidine HCl),,Syn
+605602,240162,active,MDX - Oxycodone (Oxycodone),,Syn
+704679,240162,active,MDX - Meperidine (From Meperidine HCl),,Syn
+704679,240162,active,MDX Oxycodone (Oxycodone),,Syn
+735503,217221,active,No Known Allergies,,Syn
+950132,197881,active,No Known Allergy,,Syn
+815905,236681,active,No Known Allergies,,Syn
+717534,88239,active,amoxicillin,,Syn
+518385,88239,active,amoxicillin,,Syn
+625110,272847,active,No Known Drug Allergies,,Syn
+537343,249387,active,No Known Allergies,,Syn
+710789,282641,active,No Known Allergies,,Syn
+907513,282641,active,No Known Allergies,,Syn
+791779,282641,active,No Known Allergies,,Syn
+585014,17761,active,No Known Allergies,,Syn
+858567,344136,active,No Known Allergies,,Syn
+597571,234770,active,No Known Allergies,,Syn
+776710,33776,active,No Known Allergies,,Syn
+697116,62853,active,Unable to Assess,,Syn
+504592,314531,active,iodine,,Syn
+504592,314531,active,latex,,Syn
+504592,314531,active,ketorolac tromethamine (From Toradol),,Syn
+504592,314531,active,naproxen,,Syn
+1021857,289704,active,latex,,Syn
+581615,289704,active,latex,,Syn
+695882,35346,active,No Known Drug Allergies,,Syn
+648741,35346,active,No Known Drug Allergies,,Syn
+555505,146310,active,No Known Drug Allergies,,Syn
+984410,129493,active,oxycodone,,Syn
+984410,129493,active,diltiazem,,Syn
+984410,129493,active,verapamil,,Syn
+984410,129493,active,niacin,,Syn
+736840,129493,active,diltiazem,,Syn
+736840,129493,active,verapamil,,Syn
+736840,129493,active,oxycodone,,Syn
+504592,314531,active,sulfur (From Sulfur-8),,Syn
+504592,314531,active,lorazepam (From Ativan),,Syn
+695238,15261,active,No Known Allergies,,Syn
+899754,215446,active,No Known Allergies (NKDA),,Syn
+618114,215446,active,No Known Allergies (NKDA),,Syn
+709022,255577,active,No Known Allergies,,Syn
+606832,281066,active,codeine,,Syn
+772665,145397,active,No Known Drug Allergies,,Syn
+863693,52709,active,Sulfa (Sulfonamide Antibiotics),,Syn
+892324,351661,active,No Known Allergies,,Syn
+754959,54046,active,No Known Allergies,,Syn
+644069,37426,active,shellfish derived,,Syn
+795958,78341,active,NO KNOWN ALLERGY,,Syn
+877658,141620,active,No Known Allergies,,Syn
+500218,133287,active,No Known Allergies,,Syn
+650015,221779,active,No Known Allergies,,Syn
+980045,221779,active,No Known Allergies,,Syn
+1037934,296865,active,No Known Allergies,,Syn
+562125,112734,active,No Known Allergies,,Syn
+705060,134264,active,No Known Allergies,,Syn
+635860,122116,active,No Known Allergies,,Syn
+695537,201827,active,No Known Allergies,,Syn
+574060,201827,active,No Known Allergies,,Syn
+898129,201827,active,No Known Allergies,,Syn
+520617,201827,active,No Known Allergies,,Syn
+547133,201827,active,No Known Allergies,,Syn
+828581,201827,active,No Known Allergies,,Syn
+858576,201827,active,No Known Allergies,,Syn
+573191,201827,active,No Known Allergies,,Syn
+909194,201827,active,No Known Allergies,,Syn
+664337,201827,active,No Known Allergies,,Syn
+677321,201827,active,No Known Allergies,,Syn
+798129,201827,active,No Known Allergies,,Syn
+826826,201827,active,No Known Allergies,,Syn
+676492,201827,active,No Known Allergies,,Syn
+618023,201827,active,No Known Allergies,,Syn
+1027862,37426,active,No Known Allergies,,Syn
+996557,37426,active,No Known Allergies,,Syn
+856228,251513,active,No Known Drug Allergies,,Syn
+572001,301006,active,Sulfa (Sulfonamide Antibiotics),,Syn
+837027,301006,active,Sulfa (Sulfonamide Antibiotics),,Syn
+694042,168612,active,No Known Allergies,,Syn
+736840,129493,active,niacin,,Syn
+845826,166324,active,NKDA,,Syn
+990520,268841,active,IBUPROFEN,,Syn
+990520,268841,active,ACETAMINOPHEN (From TYLENOL),,Syn
+884237,285798,active,NO KNOWN ALLERGIES,,Syn
+799916,267076,active,cortisone,,Syn
+823214,118427,active,Penicillins,,Syn
+823214,118427,active,ciprofloxacin (From CIPRO),,Syn
+1013836,116105,active,No Known Drug Allergies,,Syn
+798018,253874,active,No Known Allergies,,Syn
+679385,249658,active,No Known Allergies,,Syn
+521091,75891,active,No Known Allergies,,Syn
+712377,55850,active,No Known Allergies,,Syn
+564166,55850,active,No Known Allergies,,Syn
+609365,55850,active,No Known Allergies,,Syn
+615525,55850,active,No Known Allergies,,Syn
+730200,55850,active,No Known Allergies,,Syn
+881022,102076,active,cephalexin (From KEFLEX),,Syn
+670848,267076,active,cortisone,,Syn
+500479,267076,active,cortisone,,Syn
+506544,4497,active,No Known Allergy,,Syn
+749550,235299,active,Sulfa (Sulfonamide Antibiotics),,Syn
+973374,235299,active,Sulfa (Sulfonamide Antibiotics),,Syn
+720938,235299,active,Sulfa (Sulfonamide Antibiotics),,Syn
+602942,121640,active,No Known Allergies,,Syn
+935511,121640,active,No Known Allergies,,Syn
+849150,116983,active,No Known Allergies,,Syn
+651655,332061,active,No Known Drug Allergies,,Syn
+879470,63464,active,No Known Allergies,,Syn
+924720,16570,active,No Known Allergies,,Syn
+881022,102076,active,clonidine,,Syn
+616796,102076,active,No Known Allergies,,Syn
+662275,211760,active,No Known Allergies,,Syn
+600942,181147,active,No Known Drug Allergies,,Syn
+813456,200334,active,No Known Allergies,,Syn
+869564,262810,active,No Known Allergies,,Syn
+611967,235299,active,Sulfa (Sulfonamide Antibiotics),,Syn
+1023258,168076,active,No Known Drug Allergies,,Syn
+773584,168076,active,No Known Drug Allergies,,Syn
+698191,168076,active,No Known Drug Allergies,,Syn
+1015065,314340,active,No Known Drug Allergy,,Syn
+915442,148602,active,NO KNOWN DRUG ALLERGIES,,Syn
+894693,323580,active,No Known Allergies,,Syn
+674981,331741,active,No Known Allergies,,Syn
+624967,60803,active,No Known Drug Allergies,,Syn
+768029,269734,active,No Known Allergies,,Syn
+531679,272954,active,No Known Allergies,,Syn
+530931,189147,active,Penicillins,,Syn
+707525,45953,active,No Known Allergies,,Syn
+713516,61191,active,No Known Allergies,,Syn
+850501,328496,active,No Known Allergies,,Syn
+584189,208077,active,No Known Drug Allergies,,Syn
+803458,349561,active,codeine,,Syn
+825723,280919,active,shellfish derived,,Syn
+742413,65478,active,No Known Allergies,,Syn
+811674,212662,active,No Known Allergies,,Syn
+581789,146689,active,No Known Allergies,,Syn
+627652,146689,active,No Known Allergies,,Syn
+836385,163148,active,No Known Drug Allergies,,Syn
+669664,276703,active,"diphtheria toxoid,adsorbed",,Syn
+530931,189147,active,gabapentin,,Syn
+840590,207121,active,No Known Drug Allergies,,Syn
+875831,329891,active,No Known Allergies,,Syn
+777257,110182,active,latex,,Syn
+961149,61309,active,No Known Allergies,,Syn
+617609,324963,active,INGREDIENT: NKDA - No Known Drug Allergies,,Syn
+969698,197183,active,NO KNOWN ALLERGIES,,Syn
+1047822,272270,active,No Known Allergies,,Syn
+558946,272270,active,No Known Allergies,,Syn
+967232,282434,active,No Known Allergies,,Syn
+525827,40748,active,No Known Allergies,,Syn
+531383,40748,active,No Known Allergies,,Syn
+867492,280919,active,shellfish derived,,Syn
+656821,280919,active,shellfish derived,,Syn
+543451,280919,active,shellfish derived,,Syn
+577538,242039,active,No Known Allergies,,Syn
+580310,39186,active,No Known Allergies,,Syn
+757109,39186,active,No Known Allergies,,Syn
+775718,39186,active,No Known Allergies,,Syn
+1027772,39186,active,No Known Allergies,,Syn
+641650,35971,active,No Known Allergies,,Syn
+620553,129731,active,TRAMADOL,,Syn
+620553,129731,active,SULFA (SULFONAMIDE ANTIBIOTICS),,Syn
+620553,129731,active,CIPROFLOXACIN,,Syn
+994920,260215,active,No Known Allergy (NKA),,Syn
+762638,184211,active,No Known Drug Allergies,,Syn
+599714,184211,active,No Known Drug Allergies,,Syn
+654274,184211,active,No Known Drug Allergies,,Syn
+1006470,165189,active,No Known Allergies,,Syn
+953513,9020,active,codeine,,Syn
+669664,276703,active,lactose,,Syn
+669664,276703,active,cat dander,,Syn
+539396,286176,active,No Known Allergies,,Syn
+700474,299260,active,No Known Allergies,,Syn
+550659,191354,active,No Known Allergy,,Syn
+799427,191354,active,No Known Allergy,,Syn
+872256,262810,active,No Known Allergies,,Syn
+725918,148896,active,No Known Allergies,,Syn
+794827,214673,active,No Known Allergies,,Syn
+809402,157048,active,No Known Allergies,,Syn
+871791,250247,active,No Known Allergies,,Syn
+626295,352892,active,NO KNOWN ALLERGY,,Syn
+502700,191354,active,No Known Allergy,,Syn
+1026537,191354,active,No Known Allergy,,Syn
+895768,191354,active,No Known Allergy,,Syn
+555926,308,active,bacitracin,,Syn
+981860,308,active,bacitracin,,Syn
+849777,308,active,bacitracin,,Syn
+624985,198103,active,No Known Allergies,,Syn
+957006,254649,active,NO KNOWN ALLERGY,,Syn
+1036582,254649,active,NO KNOWN ALLERGY,,Syn
+947535,332027,active,No Known Allergies,,Syn
+675232,279078,active,Penicillins,,Syn
+575909,138185,active,"Latex, Natural Rubber",,Syn
+911484,313404,active,No Known Allergies,,Syn
+595531,73881,active,Penicillins,,Syn
+738071,182406,active,Penicillins,,Syn
+738071,182406,active,ibuprofen (From Motrin),,Syn
+738071,182406,active,ibuprofen,,Syn
+738071,182406,active,morphine,,Syn
+884357,308,active,bacitracin,,Syn
+725849,308,active,bacitracin,,Syn
+990314,341553,active,No Known Allergies,,Syn
+547236,341553,active,No Known Allergies,,Syn
+632297,248043,active,Citalopram (From Celexa),,Syn
+632297,248043,active,Methylprednisolone,,Syn
+524167,138185,active,"Latex, Natural Rubber",,Syn
+660892,138185,active,"Latex, Natural Rubber",,Syn
+774165,97080,active,No Known Allergies,,Syn
+512836,215942,active,Sulfa (Sulfonamide Antibiotics),,Syn
+531240,215942,active,Sulfa (Sulfonamide Antibiotics),,Syn
+553671,215942,active,Sulfa (Sulfonamide Antibiotics),,Syn
+620553,129731,active,ASPIRIN,,Syn
+620553,129731,active,KETOROLAC (From TORADOL),,Syn
+688554,102321,active,No Known Allergies,,Syn
+796988,102321,active,No Known Allergies,,Syn
+985330,238994,active,meperidine HCl (From Demerol),,Syn
+924116,210541,active,No Known Allergies,,Syn
+877955,215942,active,Sulfa (Sulfonamide Antibiotics),,Syn
+672191,214842,active,No Known Drug Allergies,,Syn
+539667,214842,active,No Known Drug Allergies,,Syn
+927668,214842,active,No Known Drug Allergies,,Syn
+997247,300716,active,Sulfa (Sulfonamide Antibiotics),,Syn
+687034,51253,active,Sulfur,,Syn
+738071,182406,active,ketorolac (From Toradol),,Syn
+738071,182406,active,tramadol,,Syn
+738071,182406,active,metoclopramide (From Reglan),,Syn
+1031095,111857,active,No Known Allergies,,Syn
+970907,259071,active,No Known Drug Allergies,,Syn
+647513,205440,active,codeine,,Syn
+554592,248043,active,Methylprednisolone,,Syn
+554592,248043,active,Citalopram (From Celexa),,Syn
+804847,248043,active,Methylprednisolone,,Syn
+804847,248043,active,Citalopram (From Celexa),,Syn
+971987,199949,active,No Known Allergy,,Syn
+671648,297510,active,No Known Allergy,,Syn
+987398,45978,active,No Known Drug Allergy,,Syn
+716781,251904,active,Penicillins,,Syn
+788905,66753,active,No Known Allergies,,Syn
+934359,166128,active,No Known Allergies,,Syn
+820490,166128,active,No Known Allergies,,Syn
+737822,62118,active,Piroxicam (From Feldene),,Syn
+737822,62118,active,Latex,,Syn
+737822,62118,active,Hydromorphone (From Dilaudid),,Syn
+914522,62118,active,Piroxicam (From Feldene),,Syn
+914522,62118,active,Nifedipine (From Procardia),,Syn
+914522,62118,active,Latex,,Syn
+914522,62118,active,Oxycodone,,Syn
+827689,181650,active,No Known Allergies (NKA),,Syn
+614269,110787,active,tomato,,Syn
+614269,110787,active,Penicillins,,Syn
+614269,110787,active,adhesive,,Syn
+858887,110127,active,ciprofloxacin HCl (From Cipro),,Syn
+858887,110127,active,cephalexin monohydrate (From Keflex),,Syn
+858887,110127,active,ciprofloxacin (From Cipro),,Syn
+858887,110127,active,codeine,,Syn
+900180,110127,active,codeine,,Syn
+900180,110127,active,ciprofloxacin (From Cipro),,Syn
+900180,110127,active,ciprofloxacin HCl (From Cipro),,Syn
+900180,110127,active,cephalexin monohydrate (From Keflex),,Syn
+687034,51253,active,Dust,,Syn
+687034,51253,active,POLLEN,,Syn
+687034,51253,active,Cephalexin (From Keflex),,Syn
+894660,224486,active,No Known Allergies,,Syn
+639508,224486,active,No Known Allergies,,Syn
+845670,233444,active,No Known Allergies,,Syn
+773420,201347,active,No Known Drug Allergies,,Syn
+516292,143744,active,vancomycin,,Syn
+943503,29513,active,No Known Allergies,,Syn
+687004,29513,active,No Known Allergies,,Syn
+670297,29513,active,No Known Allergies,,Syn
+897298,327271,active,No Known Allergies,,Syn
+914522,62118,active,Hydromorphone (From Dilaudid),,Syn
+788589,191551,active,NKA,,Syn
+875732,191551,active,NKA,,Syn
+897908,119859,active,ibuprofen (From Motrin),,Syn
+830726,119859,active,ibuprofen (From Motrin),,Syn
+666066,119859,active,ibuprofen (From Motrin),,Syn
+780232,38832,active,amoxicillin,,Syn
+589756,90031,active,NO KNOWN ALLERGIES,,Syn
+807459,81296,active,AMOXICILLIN,,Syn
+937407,81296,active,AMOXICILLIN,,Syn
+539680,5356,active,aspirin,,Syn
+557327,326515,active,No Known Drug Allergies,,Syn
+752661,202596,active,No Known Allergies,,Syn
+884553,19624,active,No Known Allergies,,Syn
+910278,313252,active,No Known Allergies,,Syn
+850005,241854,active,Diphenhydramine,,Syn
+850005,241854,active,Macrolides,,Syn
+547358,252459,active,No Known Allergies,,Syn
+520865,327271,active,No Known Allergies,,Syn
+792327,327271,active,No Known Allergies,,Syn
+1015047,102230,active,lactose,,Syn
+856386,183663,active,No Known Drug Allergies,,Syn
+792282,213017,active,NO KNOWN ALLERGIES,,Syn
+589441,142507,active,No Known Allergies,,Syn
+977137,326515,active,No Known Drug Allergies,,Syn
+911277,265386,active,No Known Drug Allergies,,Syn
+909953,6507,active,No Known Allergies,,Syn
+654872,285640,active,amoxicillin,,Syn
+693649,351629,active,No Known Allergies,,Syn
+747471,57350,active,clarithromycin (From Biaxin),,Syn
+648317,29132,active,No Known Allergies,,Syn
+581070,138886,active,No Known Allergies,,Syn
+915446,138886,active,No Known Allergies,,Syn
+645309,241859,active,vancomycin,,Syn
+630976,131416,active,No Known Allergies,,Syn
+918230,131416,active,No Known Allergies,,Syn
+528590,47469,active,chocolate flavor,,Syn
+1047143,181739,active,No Known Allergies,,Syn
+553188,181739,active,No Known Allergies,,Syn
+839366,322922,active,No Known Allergies,,Syn
+937702,208104,active,No Known Allergies,,Syn
+1001959,156054,active,No Known Allergies,,Syn
+879968,343248,active,No Known Allergies,,Syn
+714982,13566,active,No Known Allergies,,Syn
+517573,96477,active,penicillin G,,Syn
+839693,96477,active,penicillin G,,Syn
+956914,232339,active,No Known Allergies,,Syn
+742320,232339,active,No Known Allergies,,Syn
+554635,57350,active,clarithromycin (From Biaxin),,Syn
+724799,58936,active,No Known Allergies,,Syn
+886727,89794,active,No Known Allergies,,Syn
+922234,106965,active,No Known Allergies,,Syn
+786525,331315,active,Penicillins,,Syn
+786525,331315,active,codeine,,Syn
+762805,64355,active,No Known Allergies,,Syn
+664928,218542,active,Sulfa (Sulfonamide Antibiotics),,Syn
+809730,218542,active,Sulfa (Sulfonamide Antibiotics),,Syn
+686218,218542,active,Sulfa (Sulfonamide Antibiotics),,Syn
+884988,50033,active,Penicillins,,Syn
+618541,50033,active,Penicillins,,Syn
+1049034,156054,active,No Known Allergies,,Syn
+677398,217989,active,NKA,,Syn
+742399,59469,active,No Known Allergies,,Syn
+969548,302170,active,No Known Allergies,,Syn
+725825,302170,active,No Known Allergies,,Syn
+907360,324308,active,No Known Allergies,,Syn
+966512,2779,active,No Known Allergies,,Syn
+930572,2779,active,No Known Allergies,,Syn
+702856,2779,active,No Known Allergies,,Syn
+1044496,126548,active,Penicillins,,Syn
+1044496,126548,active,Sulfa (Sulfonamide Antibiotics),,Syn
+727351,126548,active,Penicillins,,Syn
+742575,237106,active,No Known Drug Allergies,,Syn
+523119,93541,active,No Known Allergies,,Syn
+982615,93541,active,No Known Allergies,,Syn
+1049827,212446,active,No Known Allergies,,Syn
+1018880,337164,active,No Known Allergies,,Syn
+806595,22872,active,NO KNOWN ALLERGIES,,Syn
+727351,126548,active,Sulfa (Sulfonamide Antibiotics),,Syn
+817693,126548,active,Penicillins,,Syn
+817693,126548,active,Sulfa (Sulfonamide Antibiotics),,Syn
+667232,126548,active,Penicillins,,Syn
+667232,126548,active,Sulfa (Sulfonamide Antibiotics),,Syn
+899440,161988,active,NO KNOWN ALLERGIES,,Syn
+791964,50033,active,Penicillins,,Syn
+973040,50033,active,Penicillins,,Syn
+1037989,50033,active,Penicillins,,Syn
+501337,289281,active,No Known Allergies,,Syn
+664463,353139,active,No Known Allergy (NKA),,Syn
+1044019,310278,active,PENICILLINS,,Syn
+699475,232339,active,No Known Allergies,,Syn
+940817,4022,active,No Known Allergies,,Syn
+891320,1245,active,Penicillins (PCN),,Syn
+1001524,207652,active,No Known Allergies,,Syn
+802897,24051,active,No Known Allergies,,Syn
+801881,44719,active,tramadol,,Syn
+916406,22872,active,NO KNOWN ALLERGIES,,Syn
+695565,246275,active,No Known Allergies,,Syn
+735978,9899,active,No Known Allergies,,Syn
+1003293,143812,active,No Known Allergy,,Syn
+662000,312263,active,meperidine HCl (From Demerol),,Syn
+662000,312263,active,cephalexin monohydrate (From Keflex),,Syn
+801881,44719,active,iodine,,Syn
+801881,44719,active,pork derived (porcine),,Syn
+1009223,73795,active,Penicillins,,Syn
+559027,73795,active,Penicillins,,Syn
+629888,310107,active,No Known Allergies,,Syn
+786857,310107,active,No Known Allergies,,Syn
+514945,238422,active,No Known Allergies,,Syn
+973665,176296,active,No Known Allergies,,Syn
+820169,61775,active,No Known Allergies,,Syn
+838182,216027,active,No Known Allergies,,Syn
+541713,125400,active,No Known Allergies,,Syn
+671700,73597,active,clindamycin,,Syn
+850258,169530,active,vancomycin,,Syn
+850258,169530,active,iodine,,Syn
+915571,244259,active,No Known Allergies,,Syn
+726111,326194,active,No Known Allergy,,Syn
+626264,232286,active,No Known Allergies,,Syn
+553831,299132,active,No Known Drug Allergies,,Syn
+602996,327215,active,PENICILLINS,,Syn
+730640,321683,active,No Known Drug Allergies,,Syn
+723860,340525,active,hydromorphone (From DILAUDID),,Syn
+640468,340525,active,hydromorphone (From DILAUDID),,Syn
+986094,280697,active,hydromorphone (From Dilaudid),,Syn
+986094,280697,active,ketorolac (From Toradol),,Syn
+986094,280697,active,morphine,,Syn
+980517,280697,active,hydromorphone (From Dilaudid),,Syn
+980517,280697,active,morphine,,Syn
+980517,280697,active,ketorolac (From Toradol),,Syn
+872200,280697,active,morphine,,Syn
+872200,280697,active,ketorolac (From Toradol),,Syn
+568652,251636,active,No Known Allergies,,Syn
+950489,253703,active,No Known Allergy,,Syn
+669903,213318,active,No Known Allergy,,Syn
+543282,2824,active,trimethoprim (From Bactrim),,Syn
+543282,2824,active,sulfamethoxazole (From Bactrim),,Syn
+900064,2824,active,sulfamethoxazole (From Bactrim),,Syn
+671700,73597,active,codeine,,Syn
+677854,73597,active,codeine,,Syn
+677854,73597,active,clindamycin,,Syn
+593284,350494,active,Penicillins,,Syn
+515419,350494,active,No Known Allergies,,Syn
+851094,156439,active,hydromorphone HCl (From Dilaudid),,Syn
+851094,156439,active,tetracycline,,Syn
+851094,156439,active,iodine,,Syn
+851094,156439,active,caffeine,,Syn
+633728,136761,active,olanzapine,,Syn
+633728,136761,active,hydromorphone,,Syn
+633728,136761,active,risperidone (From RISPERDAL),,Syn
+900064,2824,active,trimethoprim (From Bactrim),,Syn
+662549,2824,active,sulfamethoxazole (From Bactrim),,Syn
+662549,2824,active,trimethoprim (From Bactrim),,Syn
+553808,300425,active,No Known Allergies,,Syn
+887508,132021,active,No Known Allergies,,Syn
+839608,135646,active,No Known Allergies,,Syn
+570036,249004,active,No Known Allergies,,Syn
+643927,13170,active,bee venom protein (honey bee),,Syn
+844285,238213,active,No Known Allergies,,Syn
+565130,75677,active,NO KNOWN ALLERGIES,,Syn
+841957,342248,active,No Known Allergies,,Syn
+815008,342248,active,No Known Allergies,,Syn
+827115,345841,active,celecoxib (From Celebrex),,Syn
+582203,330352,active,No Known Allergies,,Syn
+838784,330352,active,No Known Allergies,,Syn
+596063,168175,active,No Known Allergy,,Syn
+893318,235414,active,No Known Allergies,,Syn
+629570,201306,active,No Known Allergies,,Syn
+956709,90899,active,NO KNOWN ALLERGIES,,Syn
+529187,72698,active,No Known Drug Allergies,,Syn
+944671,293040,active,No Allergies (NKDA),,Syn
+514903,293040,active,No Allergies (NKDA),,Syn
+969632,293040,active,No Allergies (NKDA),,Syn
+645721,348228,active,No Known Drug Allergies,,Syn
+1001600,348228,active,No Known Drug Allergies,,Syn
+939779,292190,active,NSAIDs,,Syn
+981389,292190,active,NSAIDs,,Syn
+891880,292190,active,NSAIDs,,Syn
+515503,292190,active,NSAIDs,,Syn
+813412,79216,active,No Known Allergies,,Syn
+872200,280697,active,hydromorphone (From Dilaudid),,Syn
+656065,104820,active,No Known Allergies,,Syn
+1007731,104820,active,No Known Allergies,,Syn
+883209,297856,active,No Known Allergies,,Syn
+882027,230289,active,No Known Allergies,,Syn
+743035,239530,active,No Known Allergies,,Syn
+880623,201306,active,No Known Allergies,,Syn
+754731,201306,active,No Known Allergies,,Syn
+656660,318575,active,No Known Drug Allergies,,Syn
+829856,318575,active,No Known Drug Allergies,,Syn
+716272,318575,active,No Known Drug Allergies,,Syn
+602959,6017,active,No Known Allergies,,Syn
+633728,136761,active,diphenhydramine (From BENADRYL),,Syn
+533489,101998,active,No Known Drug Allergies,,Syn
+846458,165174,active,No Known Drug Allergy,,Syn
+1038721,106952,active,No Known Drug Allergies,,Syn
+1035632,106952,active,No Known Drug Allergies,,Syn
+996743,106952,active,No Known Drug Allergies,,Syn
+894607,79216,active,No Known Allergies,,Syn
+976577,79216,active,No Known Allergies,,Syn
+981247,25328,active,No Known Allergies,,Syn
+789487,314069,active,codeine,,Syn
+789487,314069,active,Sulfa (Sulfonamide Antibiotics),,Syn
+789487,314069,active,doxycycline,,Syn
+789487,314069,active,cephalexin (From Keflex),,Syn
+789487,314069,active,clindamycin,,Syn
+789487,314069,active,sulfamethoxazole (From Septra),,Syn
+789487,314069,active,trimethoprim (From Septra),,Syn
+789487,314069,active,minocycline,,Syn
+789487,314069,active,imipramine,,Syn
+920030,19455,active,azithromycin,,Syn
+806355,19455,active,azithromycin,,Syn
+936549,19455,active,azithromycin,,Syn
+970389,19455,active,azithromycin,,Syn
+555563,275312,active,No Known Allergies,,Syn
+504725,275312,active,No Known Allergies,,Syn
+507034,209836,active,No Known Allergies,,Syn
+741695,209836,active,No Known Allergies,,Syn
+1000112,152114,active,No Known Allergies,,Syn
+976668,67856,active,No Known Allergies,,Syn
+547146,229125,active,No Known Allergies,,Syn
+832495,76471,active,No Known Allergies,,Syn
+535242,105398,active,No Known Drug Allergies,,Syn
+703515,105398,active,No Known Drug Allergies,,Syn
+532608,66899,active,Penicillins,,Syn
+837168,172884,active,No Known Allergies,,Syn
+910400,172884,active,No Known Allergies,,Syn
+789827,313178,active,naproxen (From ALEVE),,Syn
+869736,98911,active,No Known Drug Allergies,,Syn
+890847,98911,active,No Known Drug Allergies,,Syn
+520817,105037,active,No Known Allergies,,Syn
+673363,158145,active,Codeine,,Syn
+915721,312229,active,clozapine,,Syn
+751929,208971,active,No Known Allergies,,Syn
+581259,208971,active,No Known Allergies,,Syn
+1026438,208971,active,No Known Allergies,,Syn
+574332,208971,active,No Known Allergies,,Syn
+745900,208971,active,No Known Allergies,,Syn
+908268,208971,active,No Known Allergies,,Syn
+987066,208971,active,No Known Allergies,,Syn
+758165,96365,active,No Known Allergies,,Syn
+711066,180327,active,No Known Allergies,,Syn
+755463,180327,active,No Known Allergies,,Syn
+657126,290623,active,Penicillins,,Syn
+799495,202382,active,pollen extracts,,Syn
+914786,42374,active,iodine,,Syn
+823497,124789,active,No Known Allergies,,Syn
+701987,181083,active,Iodine and Iodide Containing Produc,,Syn
+701987,181083,active,latex,,Syn
+701987,181083,active,"Latex, Natural Rubber",,Syn
+701987,181083,active,aspirin,,Syn
+701987,181083,active,Penicillins,,Syn
+1004953,283547,active,erythromycin base,,Syn
+1004953,283547,active,ampicillin,,Syn
+1004953,283547,active,doxycycline,,Syn
+1004953,283547,active,pineapple,,Syn
+1051069,223971,active,No Known Allergies,,Syn
+612249,109718,active,No Known Drug Allergies,,Syn
+789487,314069,active,morphine,,Syn
+737118,308852,active,amoxicillin (From Augmentin),,Syn
+737118,308852,active,clavulanic acid (From Augmentin),,Syn
+693945,220372,active,No Known Allergies,,Syn
+690763,336248,active,No Known Allergies,,Syn
+856830,333323,active,No Known Allergies,,Syn
+748489,190820,active,Erythromycin,,Syn
+748489,190820,active,Morphine,,Syn
+748489,190820,active,Hydromorphone (From Dilaudid),,Syn
+672852,98908,active,nicotine,,Syn
+672852,98908,active,bupropion (From Wellbutrin),,Syn
+672852,98908,active,mirtazapine (From Remeron),,Syn
+1046065,22362,active,sulfamethoxazole (From Bactrim),,Syn
+737612,71761,active,MDX NO KNOWN DRUG ALLERGY,,Syn
+958889,71761,active,MDX NO KNOWN DRUG ALLERGY,,Syn
+916843,136025,active,No Known Allergies (NKA),,Syn
+661557,181025,active,No Known Allergies,,Syn
+719667,181025,active,No Known Allergies,,Syn
+867164,208971,active,No Known Allergies,,Syn
+993684,62420,active,PENICILLINS,,Syn
+970594,93098,active,Penicillins,,Syn
+804067,93098,active,Penicillins,,Syn
+940790,14552,active,No Known Allergies,,Syn
+539658,240364,active,No Known Allergies,,Syn
+578159,210184,active,rosuvastatin calcium (From Crestor),,Syn
+578159,210184,active,epinephrine,,Syn
+578159,210184,active,terbinafine (From Lamisil),,Syn
+617484,210184,active,epinephrine,,Syn
+617484,210184,active,terbinafine (From Lamisil),,Syn
+617484,210184,active,rosuvastatin calcium (From Crestor),,Syn
+779883,181025,active,No Known Allergies,,Syn
+917110,220703,active,No Known Allergies,,Syn
+1021003,254313,active,No Known Allergies,,Syn
+723735,254313,active,No Known Allergies,,Syn
+825350,254313,active,No Known Allergies,,Syn
+850423,159810,active,None Allergies,,Syn
+1008519,346057,active,No Known Allergies,,Syn
+615755,259214,active,No Known Allergies,,Syn
+892556,85549,active,No Known Drug Allergies,,Syn
+610267,143209,active,oxycodone (From PERCOCET),,Syn
+728794,272807,active,No Known Allergies,,Syn
+900083,137785,active,Penicillins,,Syn
+941801,114832,active,No Known Allergies,,Syn
+868823,114832,active,No Known Allergies,,Syn
+720954,297608,active,No Known Allergies,,Syn
+620932,329897,active,codeine,,Syn
+846911,321363,active,gabapentin (From Neurontin),,Syn
+846911,321363,active,iron,,Syn
+846911,321363,active,erythromycin base,,Syn
+883176,321363,active,gabapentin (From Neurontin),,Syn
+883176,321363,active,iron,,Syn
+883176,321363,active,erythromycin base,,Syn
+970686,321363,active,gabapentin (From Neurontin),,Syn
+970686,321363,active,iron,,Syn
+1006630,159810,active,None Allergies,,Syn
+969158,159810,active,None Allergies,,Syn
+584472,159810,active,None Allergies,,Syn
+557462,159810,active,None Allergies,,Syn
+695232,159810,active,None Allergies,,Syn
+953780,23016,active,No Known Allergies,,Syn
+718965,210774,active,No Known Allergies,,Syn
+557238,210774,active,No Known Allergies,,Syn
+662114,322184,active,Penicillins,,Syn
+818496,337020,active,No Known Allergies,,Syn
+985544,184599,active,venom-honey bee (bee venom (honey bee)),,Syn
+869206,184599,active,venom-honey bee (bee venom (honey bee)),,Syn
+562863,132177,active,Sulfamethoxazole w/Trimethoprim (From Bactrim),,Syn
+504470,139061,active,No Known Allergy,,Syn
+968997,272672,active,Sulfa (Sulfonamide Antibiotics),,Syn
+968997,272672,active,Penicillins,,Syn
+1022237,272672,active,Penicillins,,Syn
+1022237,272672,active,Sulfa (Sulfonamide Antibiotics),,Syn
+812447,144433,active,NO KNOWN ALLERGIES,,Syn
+583088,306439,active,No Known Allergies,,Syn
+1031266,220,active,No Known Allergies,,Syn
+856233,180374,active,No Known Allergies,,Syn
+931627,96321,active,ciprofloxacin,,Syn
+931627,96321,active,sulfamethoxazole (From Bactrim),,Syn
+931627,96321,active,trimethoprim (From Bactrim),,Syn
+563450,45568,active,codeine,,Syn
+563450,45568,active,Penicillins,,Syn
+845607,45568,active,codeine,,Syn
+845607,45568,active,Penicillins,,Syn
+787051,45568,active,codeine,,Syn
+503298,183915,active,No Known Allergies,,Syn
+628118,61788,active,No Known Allergies,,Syn
+698287,124957,active,No Known Allergies,,Syn
+722751,124957,active,No Known Allergies,,Syn
+787879,124957,active,No Known Allergies,,Syn
+676838,124957,active,No Known Allergies,,Syn
+970686,321363,active,erythromycin base,,Syn
+667950,143521,active,pineapple,,Syn
+594553,143521,active,pineapple,,Syn
+655035,78132,active,No Known Allergies,,Syn
+503898,245502,active,NO KNOWN ALLERGY,,Syn
+1030979,349461,active,NO KNOWN ALLERGIES,,Syn
+814094,312338,active,NO KNOWN ALLERGY,,Syn
+673192,115202,active,trimethoprim (From BACTRIM),,Syn
+673192,115202,active,sulfamethoxazole (From BACTRIM),,Syn
+657565,40818,active,No Known Allergies,,Syn
+768614,40818,active,No Known Allergies,,Syn
+1042042,40818,active,No Known Allergies,,Syn
+841757,124957,active,No Known Allergies,,Syn
+568267,124957,active,No Known Allergies,,Syn
+962414,124957,active,No Known Allergies,,Syn
+946491,156745,active,amoxicillin,,Syn
+806488,156745,active,amoxicillin,,Syn
+619732,44454,active,None Allergies,,Syn
+838767,44454,active,None Allergies,,Syn
+591280,329678,active,naloxone HCl (From Suboxone),,Syn
+591280,329678,active,bupropion (From Wellbutrin),,Syn
+680767,297620,active,No Known Allergies,,Syn
+898580,297620,active,No Known Allergies,,Syn
+862790,297620,active,No Known Allergies,,Syn
+787051,45568,active,Penicillins,,Syn
+1032784,80281,active,No Known Allergies,,Syn
+555280,124480,active,No Known Allergies,,Syn
+628015,118275,active,No Known Allergies,,Syn
+731410,55393,active,Aspirin,,Syn
+731410,55393,active,Polymyxin B (From Neosporin),,Syn
+731410,55393,active,Bacitracin (From Neosporin),,Syn
+731410,55393,active,Polymyxin B,,Syn
+731410,55393,active,Neomycin (From Neosporin),,Syn
+952742,55393,active,Aspirin,,Syn
+952742,55393,active,Polymyxin B (From Neosporin),,Syn
+952742,55393,active,Polymyxin B,,Syn
+937198,259074,active,No Known Allergies,,Syn
+525326,259074,active,No Known Allergies,,Syn
+880360,241013,active,No Known Allergies,,Syn
+951876,192107,active,No Known Allergies,,Syn
+819650,243773,active,No Known Allergies,,Syn
+1006864,243773,active,No Known Allergies,,Syn
+578846,289529,active,No Known Allergies,,Syn
+543304,156219,active,No Known Allergies,,Syn
+928946,14873,active,Sulfa (Sulfonamide Antibiotics),,Syn
+1027833,14873,active,Sulfa (Sulfonamide Antibiotics),,Syn
+609382,14873,active,Sulfa (Sulfonamide Antibiotics),,Syn
+636639,60053,active,lisinopril,,Syn
+952742,55393,active,Penicillins,,Syn
+952742,55393,active,Bacitracin (From Neosporin),,Syn
+952742,55393,active,Neomycin (From Neosporin),,Syn
+706356,58420,active,No Known Drug Allergies,,Syn
+714321,223879,active,Penicillins,,Syn
+943110,118024,active,No Known Allergies,,Syn
+636430,269134,active,No Known Allergies,,Syn
+1045137,269134,active,No Known Allergies,,Syn
+978026,71823,active,pollen extracts,,Syn
+595970,71823,active,pollen extracts,,Syn
+781375,71823,active,pollen extracts,,Syn
+583901,158646,active,NO KNOWN DRUG ALLERGIES,,Syn
+636639,60053,active,lamotrigine,,Syn
+636639,60053,active,diazepam,,Syn
+636639,60053,active,amlodipine,,Syn
+636639,60053,active,Penicillins,,Syn
+554393,98330,active,codeine,,Syn
+554393,98330,active,morphine,,Syn
+507146,111267,active,No Known Allergies,,Syn
+517014,107152,active,No Known Allergies,,Syn
+641684,257567,active,amoxicillin,,Syn
+728071,257567,active,amoxicillin,,Syn
+991548,270700,active,No Known Allergies,,Syn
+1011948,270700,active,No Known Allergies,,Syn
+919944,238091,active,No Known Allergies,,Syn
+702833,238091,active,No Known Allergies,,Syn
+882031,350431,active,No Known Allergies,,Syn
+929517,350431,active,No Known Allergies,,Syn
+776356,350431,active,No Known Allergies,,Syn
+593474,350431,active,No Known Allergies,,Syn
+507928,260540,active,Penicillins,,Syn
+918934,32154,active,NO KNOWN ALLERGIES,,Syn
+656785,353548,active,No Known Allergies,,Syn
+832995,330481,active,codeine,,Syn
+586606,330481,active,codeine,,Syn
+930274,18461,active,No Known Allergies,,Syn
+554393,98330,active,Penicillins,,Syn
+554393,98330,active,iodine,,Syn
+643725,181783,active,No Known Allergies,,Syn
+798314,201821,active,NKA,,Syn
+1026161,22959,active,NO KNOWN ALLERGIES,,Syn
+906908,22959,active,NO KNOWN ALLERGIES,,Syn
+719887,43487,active,No Known Allergies,,Syn
+859041,320794,active,No Known Drug Allergies,,Syn
+541352,40757,active,cashew nut,,Syn
+538567,335417,active,No Known Allergies,,Syn
+577405,234872,active,No Known Allergies,,Syn
+610977,161000,active,shellfish derived,,Syn
+576927,22959,active,NO KNOWN ALLERGIES,,Syn
+923578,22959,active,NO KNOWN ALLERGIES,,Syn
+884490,118752,active,No Known Drug Allergies,,Syn
+795293,18461,active,No Known Allergies,,Syn
+741251,349904,active,No Known Allergies,,Syn
+502921,45268,active,No Known Allergies,,Syn
+711936,72630,active,No Known Allergies,,Syn
+525715,316943,active,No Known Allergies,,Syn
+701478,180662,active,No Known Allergies,,Syn
+633297,204719,active,No Known Allergies,,Syn
+982830,70792,active,No Known Allergies,,Syn
+807511,257895,active,No Known Allergies,,Syn
+923368,351996,active,Tramadol,,Syn
+923368,351996,active,Codeine,,Syn
+923368,351996,active,Morphine,,Syn
+923368,351996,active,Terazosin,,Syn
+923368,351996,active,Wasp,,Syn
+923368,351996,active,Adhesives,,Syn
+589108,351996,active,Codeine,,Syn
+589108,351996,active,Terazosin,,Syn
+610977,161000,active,aspirin,,Syn
+924298,346288,active,levofloxacin,,Syn
+533104,346288,active,levofloxacin,,Syn
+556125,346288,active,levofloxacin,,Syn
+1034238,346288,active,Oxycodone,,Syn
+812640,21062,active,No Known Drug Allergies,,Syn
+589108,351996,active,Ezetimibe (From Zetia),,Syn
+589108,351996,active,NO KNOWN DRUG ALLERGIES,,Syn
+589108,351996,active,Adhesives,,Syn
+589108,351996,active,Tramadol,,Syn
+589108,351996,active,Morphine,,Syn
+690613,306865,active,No Known Allergies,,Syn
+1034518,51326,active,Penicillins,,Syn
+660311,51326,active,nka,,Syn
+810375,180826,active,No Known Allergies,,Syn
+660585,151226,active,Influenza Virus Vaccines,,Syn
+660585,151226,active,Penicillins (PCN),,Syn
+859589,190983,active,No Known Allergies,,Syn
+1018577,2118,active,No Known Allergy (No Known Allergies),,Syn

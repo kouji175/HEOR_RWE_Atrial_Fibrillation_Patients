@@ -1,0 +1,501 @@
+﻿encounter_id,patient_id,procedure_date,code_type,code,description,physician_npi,data_source
+638151,59566,1/6/2018 0:00,icd-10-cm,0DB88ZX,"Excision of Small Intestine, Via Natural or Artificial Opening Endoscopic, Diagnostic",GARVI,Syn
+638151,59566,1/6/2018 0:00,icd-10-cm,0DB58ZX,"Excision of Esophagus, Via Natural or Artificial Opening Endoscopic, Diagnostic",GARVI,Syn
+638151,59566,1/6/2018 0:00,icd-10-cm,0D758ZZ,"Dilation of Esophagus, Via Natural or Artificial Opening Endoscopic",GARVI,Syn
+638151,59566,1/6/2018 0:00,icd-10-cm,0DB68ZX,"Excision of Stomach, Via Natural or Artificial Opening Endoscopic, Diagnostic",GARVI,Syn
+522238,7196,2/19/2018 0:00,icd-10-cm,10E0XZZ,"Delivery of Products of Conception, External Approach",POUANTOC,Syn
+598871,176520,5/26/2018 0:00,icd-10-cm,B211YZZ,Fluoroscopy of Multiple Coronary Arteries using Other Contrast,,Syn
+598871,176520,5/26/2018 0:00,icd-10-cm,027034Z,"Dilation of Coronary Artery, One Artery with Drug-eluting Intraluminal Device, Percutaneous Approach",,Syn
+598871,176520,5/26/2018 0:00,icd-10-cm,B215YZZ,Fluoroscopy of Left Heart using Other Contrast,,Syn
+598871,176520,5/26/2018 0:00,icd-10-cm,4A023N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Percutaneous Approach",,Syn
+1022471,327544,4/26/2018 0:00,icd-10-cm,0SRC0J9,"Replacement of Right Knee Joint with Synthetic Substitute, Cemented, Open Approach",VANMI,Syn
+563823,320358,2/24/2018 0:00,icd-10-cm,0SR902A,"Replacement of Right Hip Joint with Metal on Polyethylene Synthetic Substitute, Uncemented, Open Approach",REDVOC,Syn
+940640,108970,3/14/2018 0:00,icd-10-cm,4A1HXCZ,"Monitoring of Products of Conception, Cardiac Rate, External Approach",HOFKE,Syn
+846652,191585,4/21/2018 0:00,icd-10-cm,0SRD0J9,"Replacement of Left Knee Joint with Synthetic Substitute, Cemented, Open Approach",MARJA,Syn
+913652,134201,3/15/2018 0:00,icd-10-cm,0MRN47Z,"Replacement of Right Knee Bursa and Ligament with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",WHIWA,Syn
+1042182,175806,12/13/2018 0:00,icd-10-cm,B211YZZ,Fluoroscopy of Multiple Coronary Arteries using Other Contrast,BROGA,Syn
+568745,341069,8/5/2018 0:00,icd-10-cm,0CTQXZZ,"Resection of Adenoids, External Approach",SALTH,Syn
+568745,341069,8/5/2018 0:00,icd-10-cm,0CTPXZZ,"Resection of Tonsils, External Approach",SALTH,Syn
+655830,229145,2/16/2018 0:00,icd-10-cm,0DBH8ZX,"Excision of Cecum, Via Natural or Artificial Opening Endoscopic, Diagnostic",GARVI,Syn
+867242,246175,2/24/2018 0:00,icd-10-cm,08RJ3JZ,"Replacement of Right Lens with Synthetic Substitute, Percutaneous Approach",DONNI,Syn
+717111,104702,9/18/2018 0:00,icd-10-cm,0VTTXZZ,"Resection of Prepuce, External Approach",GRESJO,Syn
+717111,104702,9/18/2018 0:00,icd-10-cm,3E0234Z,"Introduction of Serum, Toxoid and Vaccine into Muscle, Percutaneous Approach",DAHRNA,Syn
+739490,26795,7/11/2018 0:00,icd-10-cm,3E0234Z,"Introduction of Serum, Toxoid and Vaccine into Muscle, Percutaneous Approach",MASOS,Syn
+739490,26795,7/9/2018 0:00,icd-10-cm,0VTTXZZ,"Resection of Prepuce, External Approach",BOWEL,Syn
+739490,26795,7/11/2018 0:00,icd-10-cm,0VTTXZZ,"Resection of Prepuce, External Approach",DELAH,Syn
+868319,68561,4/15/2018 0:00,icd-10-cm,0VT24ZZ,"Resection of Left Seminal Vesicle, Percutaneous Endoscopic Approach",BHARO,Syn
+1042182,175806,12/13/2018 0:00,icd-10-cm,4A023N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Percutaneous Approach",BROGA,Syn
+1042182,175806,12/13/2018 0:00,icd-10-cm,027034Z,"Dilation of Coronary Artery, One Artery with Drug-eluting Intraluminal Device, Percutaneous Approach",BROGA,Syn
+756756,330054,6/12/2018 0:00,icd-10-cm,0DJ08ZZ,"Inspection of Upper Intestinal Tract, Via Natural or Artificial Opening Endoscopic",ARAJO,Syn
+968118,301106,3/19/2018 0:00,icd-10-cm,0DB68ZX,"Excision of Stomach, Via Natural or Artificial Opening Endoscopic, Diagnostic",CHATH,Syn
+928452,230195,8/9/2018 0:00,icd-10-cm,0DJD8ZZ,"Inspection of Lower Intestinal Tract, Via Natural or Artificial Opening Endoscopic",JAFGH,Syn
+522238,7196,2/18/2018 0:00,icd-10-cm,4A1HXCZ,"Monitoring of Products of Conception, Cardiac Rate, External Approach",POUANTOC,Syn
+658854,204485,7/11/2018 0:00,icd-10-cm,30233N1,"Transfusion of Nonautologous Red Blood Cells into Peripheral Vein, Percutaneous Approach",THOKV,Syn
+877748,204485,7/12/2018 0:00,icd-10-cm,3E033GC,"Introduction of Other Therapeutic Substance into Peripheral Vein, Percutaneous Approach",THOKV,Syn
+1015058,204485,6/9/2018 0:00,icd-10-cm,3E033GC,"Introduction of Other Therapeutic Substance into Peripheral Vein, Percutaneous Approach",JOSMI,Syn
+952405,177996,5/11/2018 0:00,icd-10-cm,0DB78ZX,"Excision of Stomach, Pylorus, Via Natural or Artificial Opening Endoscopic, Diagnostic",HADMA,Syn
+868319,68561,4/15/2018 0:00,icd-10-cm,0VNTXZZ,"Release Prepuce, External Approach",BHARO,Syn
+682515,164634,1/22/2018 0:00,icd-10-cm,3E0T3BZ,"Introduction of Anesthetic Agent into Peripheral Nerves and Plexi, Percutaneous Approach",NICSTE,Syn
+682515,164634,1/22/2018 0:00,icd-10-cm,8E0YXBZ,Computer Assisted Procedure of Lower Extremity,NICSTE,Syn
+682515,164634,1/23/2018 0:00,icd-10-cm,0SR90JZ,"Replacement of Right Hip Joint with Synthetic Substitute, Open Approach",CARRON,Syn
+655865,273023,11/7/2018 0:00,icd-10-cm,0RSMXZZ,"Reposition Left Elbow Joint, External Approach",STARRGR,Syn
+561225,278915,6/23/2018 0:00,icd-10-cm,02703DZ,"Dilation of Coronary Artery, One Artery with Intraluminal Device, Percutaneous Approach",STJOHNGREG,Syn
+561225,278915,6/23/2018 0:00,icd-10-cm,B2151ZZ,Fluoroscopy of Left Heart using Low Osmolar Contrast,STJOHNGREG,Syn
+561225,278915,6/23/2018 0:00,icd-10-cm,B2111ZZ,Fluoroscopy of Multiple Coronary Arteries using Low Osmolar Contrast,STJOHNGREG,Syn
+561225,278915,6/23/2018 0:00,icd-10-cm,027135Z,"Dilation of Coronary Artery, Two Arteries with Two Drug-eluting Intraluminal Devices, Percutaneous Approach",STJOHNGREG,Syn
+717681,307504,1/21/2018 0:00,icd-10-cm,0HQGXZZ,"Repair Left Hand Skin, External Approach",ROSKA,Syn
+928477,179426,2/11/2018 0:00,icd-10-cm,0YU50JZ,"Supplement Right Inguinal Region with Synthetic Substitute, Open Approach",RIGGK,Syn
+694434,40433,9/27/2018 0:00,icd-10-cm,3E0234Z,"Introduction of Serum, Toxoid and Vaccine into Muscle, Percutaneous Approach",DJONES2,Syn
+694434,40433,9/26/2018 0:00,icd-10-cm,3E0R3BZ,"Introduction of Anesthetic Agent into Spinal Canal, Percutaneous Approach",DJONES2,Syn
+694434,40433,9/26/2018 0:00,icd-10-cm,0HQ9XZZ,"Repair Perineum Skin, External Approach",DJONES2,Syn
+694434,40433,9/26/2018 0:00,icd-10-cm,10E0XZZ,"Delivery of Products of Conception, External Approach",DJONES2,Syn
+745487,90258,6/7/2018 0:00,icd-10-cm,0RG2070,"Fusion of 2 or more Cervical Vertebral Joints with Autologous Tissue Substitute, Anterior Approach, Anterior Column, Open Approach",GAIEV,Syn
+808957,337350,11/24/2018 0:00,icd-10-cm,3E0233Z,"Introduction of Anti-inflammatory into Muscle, Percutaneous Approach",YUCON,Syn
+773545,2240,1/16/2018 0:00,icd-10-cm,B2111ZZ,Fluoroscopy of Multiple Coronary Arteries using Low Osmolar Contrast,BOWENTIMOT,Syn
+773545,2240,1/17/2018 0:00,icd-10-cm,02703DZ,"Dilation of Coronary Artery, One Artery with Intraluminal Device, Percutaneous Approach",BOWENTIMOT,Syn
+931944,256876,8/23/2018 0:00,icd-10-cm,0DBP8ZX,"Excision of Rectum, Via Natural or Artificial Opening Endoscopic, Diagnostic",KOZOR,Syn
+515286,68854,4/7/2018 0:00,icd-10-cm,3E0234Z,"Introduction of Serum, Toxoid and Vaccine into Muscle, Percutaneous Approach",DESTK,Syn
+911359,76283,5/5/2018 0:00,icd-10-cm,0UB98ZX,"Excision of Uterus, Via Natural or Artificial Opening Endoscopic, Diagnostic",HANCH,Syn
+911359,76283,5/5/2018 0:00,icd-10-cm,0UDB8ZX,"Extraction of Endometrium, Via Natural or Artificial Opening Endoscopic, Diagnostic",HANCH,Syn
+556083,76283,6/24/2018 0:00,icd-10-cm,CG111ZZ,Planar Nuclear Medicine Imaging of Parathyroid Glands using Technetium 99m (Tc-99m),BERKO,Syn
+765628,276929,5/21/2018 0:00,icd-10-cm,0PSD04Z,"Reposition Left Humeral Head with Internal Fixation Device, Open Approach",HENCH,Syn
+931944,256876,8/24/2018 0:00,icd-10-cm,0DBL8ZX,"Excision of Transverse Colon, Via Natural or Artificial Opening Endoscopic, Diagnostic",KOZOR,Syn
+931944,256876,8/23/2018 0:00,icd-10-cm,0DBN8ZX,"Excision of Sigmoid Colon, Via Natural or Artificial Opening Endoscopic, Diagnostic",KOZOR,Syn
+640191,278959,1/26/2018 0:00,icd-10-cm,4A1HXCZ,"Monitoring of Products of Conception, Cardiac Rate, External Approach",HOFKE,Syn
+702067,118352,4/16/2018 0:00,icd-10-cm,3E033GC,"Introduction of Other Therapeutic Substance into Peripheral Vein, Percutaneous Approach",ASASH,Syn
+552825,161328,7/21/2018 0:00,icd-10-cm,3E0233Z,"Introduction of Anti-inflammatory into Muscle, Percutaneous Approach",CONDA,Syn
+1008565,130461,9/26/2018 0:00,icd-10-cm,3E033GC,"Introduction of Other Therapeutic Substance into Peripheral Vein, Percutaneous Approach",KUREE,Syn
+1008565,130461,9/26/2018 0:00,icd-10-cm,3E0333Z,"Introduction of Anti-inflammatory into Peripheral Vein, Percutaneous Approach",KUREE,Syn
+511916,250894,3/22/2018 0:00,icd-10-cm,10D00Z1,"Extraction of Products of Conception, Low, Open Approach",,Syn
+637982,117706,2/16/2018 0:00,icd-10-cm,0SR904Z,"Replacement of Right Hip Joint with Ceramic on Polyethylene Synthetic Substitute, Open Approach",SENPA,Syn
+560768,322969,1/5/2019 0:00,icd-10-cm,0DTJ4ZZ,"Resection of Appendix, Percutaneous Endoscopic Approach",JOH0095,Syn
+694434,40433,9/26/2018 0:00,icd-10-cm,00HU33Z,"Insertion of Infusion Device into Spinal Canal, Percutaneous Approach",DJONES2,Syn
+986318,105234,9/9/2018 0:00,icd-10-cm,3E00X4Z,"Introduction of Serum, Toxoid and Vaccine into Skin and Mucous Membranes, External Approach",,Syn
+676853,104239,7/22/2018 0:00,icd-10-cm,3E0R3BZ,"Introduction of Anesthetic Agent into Spinal Canal, Percutaneous Approach",BURKJ,Syn
+676853,104239,7/22/2018 0:00,icd-10-cm,B01B1ZZ,Fluoroscopy of Spinal Cord using Low Osmolar Contrast,BURKJ,Syn
+676853,104239,7/22/2018 0:00,icd-10-cm,3E0R33Z,"Introduction of Anti-inflammatory into Spinal Canal, Percutaneous Approach",BURKJ,Syn
+804193,305063,3/11/2018 0:00,icd-10-cm,3E033NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Peripheral Vein, Percutaneous Approach",HEIJO,Syn
+804193,305063,3/11/2018 0:00,icd-10-cm,3E03329,"Introduction of Other Anti-infective into Peripheral Vein, Percutaneous Approach",HEIJO,Syn
+804193,305063,3/11/2018 0:00,icd-10-cm,3E0333Z,"Introduction of Anti-inflammatory into Peripheral Vein, Percutaneous Approach",HEIJO,Syn
+691471,277818,2/16/2018 0:00,icd-10-cm,0DBE8ZX,"Excision of Large Intestine, Via Natural or Artificial Opening Endoscopic, Diagnostic",LEOAN,Syn
+590768,123642,4/28/2018 0:00,icd-10-cm,3E0337Z,"Introduction of Electrolytic and Water Balance Substance into Peripheral Vein, Percutaneous Approach",PATME,Syn
+962326,223454,3/12/2018 0:00,icd-10-cm,4A033R1,"Measurement of Arterial Saturation, Peripheral, Percutaneous Approach",CASTJUANC,Syn
+962326,223454,3/12/2018 0:00,icd-10-cm,10E0XZZ,"Delivery of Products of Conception, External Approach",CASTJUANC,Syn
+962326,223454,3/12/2018 0:00,icd-10-cm,0KQM0ZZ,"Repair Perineum Muscle, Open Approach",CASTJUANC,Syn
+962326,223454,3/12/2018 0:00,icd-10-cm,4A1HXCZ,"Monitoring of Products of Conception, Cardiac Rate, External Approach",CASTJUANC,Syn
+598938,109992,7/7/2018 0:00,icd-10-cm,08CTXZZ,"Extirpation of Matter from Left Conjunctiva, External Approach",MALPE,Syn
+598254,147377,10/29/2018 0:00,icd-10-cm,10D00Z1,"Extraction of Products of Conception, Low, Open Approach",POUANTOC,Syn
+598254,147377,11/23/2018 0:00,icd-10-cm,4A033R1,"Measurement of Arterial Saturation, Peripheral, Percutaneous Approach",POUANTOC,Syn
+598254,147377,10/26/2018 0:00,icd-10-cm,4A1HXCZ,"Monitoring of Products of Conception, Cardiac Rate, External Approach",POUANTOC,Syn
+669028,147377,1/2/2019 0:00,icd-10-cm,10E0XZZ,"Delivery of Products of Conception, External Approach",POUANTOC,Syn
+669028,147377,12/31/2018 0:00,icd-10-cm,0UQMXZZ,"Repair Vulva, External Approach",POUANTOC,Syn
+967442,44174,4/28/2018 0:00,icd-10-cm,F13Z0ZZ,Hearing Screening Assessment,,Syn
+967442,44174,4/27/2018 0:00,icd-10-cm,3E0234Z,"Introduction of Serum, Toxoid and Vaccine into Muscle, Percutaneous Approach",,Syn
+967442,44174,4/28/2018 0:00,icd-10-cm,0VTTXZZ,"Resection of Prepuce, External Approach",,Syn
+858567,344136,7/7/2018 0:00,icd-10-cm,0YU50JZ,"Supplement Right Inguinal Region with Synthetic Substitute, Open Approach",QUIED,Syn
+618114,215446,2/20/2018 0:00,icd-10-cm,10D00Z1,"Extraction of Products of Conception, Low, Open Approach",MEYJO,Syn
+1027736,263197,10/3/2018 0:00,icd-10-cm,0VTTXZZ,"Resection of Prepuce, External Approach",LARSU,Syn
+606832,281066,9/28/2018 0:00,icd-10-cm,0WPF0JZ,"Removal of Synthetic Substitute from Abdominal Wall, Open Approach",MIC0252,Syn
+606832,281066,9/27/2018 0:00,icd-10-cm,0KQN0ZZ,"Repair Right Hip Muscle, Open Approach",MIC0252,Syn
+606832,281066,9/27/2018 0:00,icd-10-cm,0QBM0ZZ,"Excision of Left Tarsal, Open Approach",MIC0252,Syn
+616796,102076,9/2/2018 0:00,icd-10-cm,BF37ZZZ,Magnetic Resonance Imaging (MRI) of Pancreas,CARMA,Syn
+768029,269734,9/12/2018 0:00,icd-10-cm,0VTTXZZ,"Resection of Prepuce, External Approach",KAMJI,Syn
+530931,189147,8/27/2018 0:00,icd-10-cm,4A00X4Z,"Measurement of Central Nervous Electrical Activity, External Approach",NAZAKE,Syn
+530931,189147,8/26/2018 0:00,icd-10-cm,0HQ1XZZ,"Repair Face Skin, External Approach",ATKIHE,Syn
+967232,282434,2/1/2018 0:00,icd-10-cm,3E0234Z,"Introduction of Serum, Toxoid and Vaccine into Muscle, Percutaneous Approach",LAWPA,Syn
+967232,282434,2/1/2018 0:00,icd-10-cm,6A600ZZ,"Phototherapy of Skin, Single",LAWPA,Syn
+590768,123642,4/28/2018 0:00,icd-10-cm,3E033GC,"Introduction of Other Therapeutic Substance into Peripheral Vein, Percutaneous Approach",PATME,Syn
+590768,123642,4/28/2018 0:00,icd-10-cm,3E033NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Peripheral Vein, Percutaneous Approach",PATME,Syn
+618205,239234,2/13/2018 0:00,icd-10-cm,0UT24ZZ,"Resection of Bilateral Ovaries, Percutaneous Endoscopic Approach",JOH0095,Syn
+990520,268841,6/18/2018 0:00,icd-10-cm,3E0234Z,"Introduction of Serum, Toxoid and Vaccine into Muscle, Percutaneous Approach",SHAFEM,Syn
+811674,212662,5/20/2018 0:00,icd-10-cm,0HQ1XZZ,"Repair Face Skin, External Approach",DEANS,Syn
+872256,262810,4/2/2018 0:00,icd-10-cm,3E0F7GC,"Introduction of Other Therapeutic Substance into Respiratory Tract, Via Natural or Artificial Opening",CHOUHA,Syn
+654094,316455,5/23/2018 0:00,icd-10-cm,F13Z0ZZ,Hearing Screening Assessment,,Syn
+654094,316455,5/23/2018 0:00,icd-10-cm,3E0134Z,"Introduction of Serum, Toxoid and Vaccine into Subcutaneous Tissue, Percutaneous Approach",,Syn
+934359,166128,11/14/2018 0:00,icd-10-cm,HZ2ZZZZ,Detoxification Services for Substance Abuse Treatment,SIBMA,Syn
+820490,166128,12/15/2018 0:00,icd-10-cm,HZ2ZZZZ,Detoxification Services for Substance Abuse Treatment,SIBMA,Syn
+836385,163148,6/3/2018 0:00,icd-10-cm,0DB78ZX,"Excision of Stomach, Pylorus, Via Natural or Artificial Opening Endoscopic, Diagnostic",KOZOR,Syn
+836385,163148,6/3/2018 0:00,icd-10-cm,0DB38ZX,"Excision of Lower Esophagus, Via Natural or Artificial Opening Endoscopic, Diagnostic",KOZOR,Syn
+836385,163148,6/3/2018 0:00,icd-10-cm,0DB68ZX,"Excision of Stomach, Via Natural or Artificial Opening Endoscopic, Diagnostic",KOZOR,Syn
+836385,163148,6/4/2018 0:00,icd-10-cm,0DJD8ZZ,"Inspection of Lower Intestinal Tract, Via Natural or Artificial Opening Endoscopic",KOZOR,Syn
+836385,163148,6/3/2018 0:00,icd-10-cm,0DB98ZX,"Excision of Duodenum, Via Natural or Artificial Opening Endoscopic, Diagnostic",KOZOR,Syn
+669028,147377,12/30/2018 0:00,icd-10-cm,4A1HXCZ,"Monitoring of Products of Conception, Cardiac Rate, External Approach",POUANTOC,Syn
+1016525,197801,2/2/2018 0:00,icd-10-cm,0DB68ZX,"Excision of Stomach, Via Natural or Artificial Opening Endoscopic, Diagnostic",LEOAN,Syn
+1016525,197801,2/2/2018 0:00,icd-10-cm,0DB58ZX,"Excision of Esophagus, Via Natural or Artificial Opening Endoscopic, Diagnostic",LEOAN,Syn
+935511,121640,1/30/2018 0:00,icd-10-cm,10E0XZZ,"Delivery of Products of Conception, External Approach",MCQUGE,Syn
+935511,121640,1/30/2018 0:00,icd-10-cm,4A1HXCZ,"Monitoring of Products of Conception, Cardiac Rate, External Approach",MCQUGE,Syn
+982615,93541,8/22/2018 0:00,icd-10-cm,0BBC4ZX,"Excision of Right Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",SMITDAN002,Syn
+982615,93541,8/22/2018 0:00,icd-10-cm,0W9G3ZZ,"Drainage of Peritoneal Cavity, Percutaneous Approach",SMITDAN002,Syn
+982615,93541,8/22/2018 0:00,icd-10-cm,3E0T3BZ,"Introduction of Anesthetic Agent into Peripheral Nerves and Plexi, Percutaneous Approach",SMITDAN002,Syn
+1018880,337164,5/26/2018 0:00,icd-10-cm,F13ZLZZ,Auditory Evoked Potentials Assessment,BONIROSA,Syn
+735978,9899,2/9/2018 0:00,icd-10-cm,0SRC0J9,"Replacement of Right Knee Joint with Synthetic Substitute, Cemented, Open Approach",SELNO,Syn
+899642,117035,12/1/2018 0:00,icd-10-cm,10E0XZZ,"Delivery of Products of Conception, External Approach",,Syn
+899642,117035,12/1/2018 0:00,icd-10-cm,0KQM0ZZ,"Repair Perineum Muscle, Open Approach",,Syn
+895768,191354,2/19/2019 0:00,icd-10-cm,0DBN8ZX,"Excision of Sigmoid Colon, Via Natural or Artificial Opening Endoscopic, Diagnostic",HANBR,Syn
+895768,191354,2/19/2019 0:00,icd-10-cm,0DBH8ZX,"Excision of Cecum, Via Natural or Artificial Opening Endoscopic, Diagnostic",HANBR,Syn
+915446,138886,2/24/2018 0:00,icd-10-cm,0SR90JZ,"Replacement of Right Hip Joint with Synthetic Substitute, Open Approach",RHORI,Syn
+940817,4022,1/23/2018 0:00,icd-10-cm,GZHZZZZ,Group Psychotherapy,BADRAMD,Syn
+940817,4022,1/23/2018 0:00,icd-10-cm,GZ51ZZZ,"Individual Psychotherapy, Behavioral",BADRAMD,Syn
+802897,24051,8/10/2018 0:00,icd-10-cm,GZ58ZZZ,"Individual Psychotherapy, Cognitive-Behavioral",TROTCMD,Syn
+802897,24051,8/10/2018 0:00,icd-10-cm,GZHZZZZ,Group Psychotherapy,TROTCMD,Syn
+1009223,73795,5/9/2018 0:00,icd-10-cm,0SRB02A,"Replacement of Left Hip Joint with Metal on Polyethylene Synthetic Substitute, Uncemented, Open Approach",GILMA,Syn
+935511,121640,1/30/2018 0:00,icd-10-cm,0HQ9XZZ,"Repair Perineum Skin, External Approach",MCQUGE,Syn
+885809,238186,1/8/2018 0:00,icd-10-cm,10E0XZZ,"Delivery of Products of Conception, External Approach",,Syn
+937702,208104,9/6/2018 0:00,icd-10-cm,0HQGXZZ,"Repair Left Hand Skin, External Approach",BATMA,Syn
+677398,217989,3/9/2018 0:00,icd-10-cm,30233N1,"Transfusion of Nonautologous Red Blood Cells into Peripheral Vein, Percutaneous Approach",WILSLA,Syn
+514945,238422,2/20/2018 0:00,icd-10-cm,B2121ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Low Osmolar Contrast,THOCA,Syn
+1036582,254649,7/24/2018 0:00,icd-10-cm,0SRC0J9,"Replacement of Right Knee Joint with Synthetic Substitute, Cemented, Open Approach",HAYMI,Syn
+845670,233444,9/22/2018 0:00,icd-10-cm,3E1B78Z,"Irrigation of Ear using Irrigating Substance, Via Natural or Artificial Opening",SINJU,Syn
+922234,106965,9/16/2018 0:00,icd-10-cm,0VTTXZZ,"Resection of Prepuce, External Approach",ROLEA,Syn
+568652,251636,7/30/2018 0:00,icd-10-cm,08RJ3JZ,"Replacement of Right Lens with Synthetic Substitute, Percutaneous Approach",CASJO,Syn
+629570,201306,1/19/2018 0:00,icd-10-cm,3E0233Z,"Introduction of Anti-inflammatory into Muscle, Percutaneous Approach",MILRA,Syn
+880623,201306,6/28/2018 0:00,icd-10-cm,3E0333Z,"Introduction of Anti-inflammatory into Peripheral Vein, Percutaneous Approach",KHAZR,Syn
+880623,201306,6/28/2018 0:00,icd-10-cm,3E033GC,"Introduction of Other Therapeutic Substance into Peripheral Vein, Percutaneous Approach",KHAZR,Syn
+547146,229125,3/28/2018 0:00,icd-10-cm,3E0333Z,"Introduction of Anti-inflammatory into Peripheral Vein, Percutaneous Approach",OLIVERR,Syn
+547146,229125,3/28/2018 0:00,icd-10-cm,3E033GC,"Introduction of Other Therapeutic Substance into Peripheral Vein, Percutaneous Approach",OLIVERR,Syn
+755463,180327,4/6/2018 0:00,icd-10-cm,5A09457,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure",PATEJA,Syn
+1003293,143812,4/24/2018 0:00,icd-10-cm,0QSN04Z,"Reposition Right Metatarsal with Internal Fixation Device, Open Approach",WILGJ,Syn
+910400,172884,2/17/2018 0:00,icd-10-cm,3E033GC,"Introduction of Other Therapeutic Substance into Peripheral Vein, Percutaneous Approach",KULMI,Syn
+718965,210774,7/31/2018 0:00,icd-10-cm,3E0234Z,"Introduction of Serum, Toxoid and Vaccine into Muscle, Percutaneous Approach",ISHIKI,Syn
+525326,259074,10/22/2018 0:00,icd-10-cm,3E033GC,"Introduction of Other Therapeutic Substance into Peripheral Vein, Percutaneous Approach",CIRAN,Syn
+525326,259074,10/22/2018 0:00,icd-10-cm,3E033NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Peripheral Vein, Percutaneous Approach",CIRAN,Syn
+755463,180327,4/6/2018 0:00,icd-10-cm,HZ52ZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Cognitive-Behavioral",RBBP01,Syn
+1008519,346057,10/29/2018 0:00,icd-10-cm,08RJ3JZ,"Replacement of Right Lens with Synthetic Substitute, Percutaneous Approach",CASJO,Syn
+673192,115202,1/23/2018 0:00,icd-10-cm,0QBP0ZZ,"Excision of Left Metatarsal, Open Approach",SOTO,Syn
+543304,156219,4/6/2018 0:00,icd-10-cm,0HQ1XZZ,"Repair Face Skin, External Approach",ROSKA,Syn
+696895,275729,7/16/2018 0:00,icd-10-cm,10E0XZZ,"Delivery of Products of Conception, External Approach",,Syn
+570036,249004,3/13/2018 0:00,icd-10-cm,3E033GC,"Introduction of Other Therapeutic Substance into Peripheral Vein, Percutaneous Approach",PARJO,Syn
+570036,249004,3/13/2018 0:00,icd-10-cm,3E0333Z,"Introduction of Anti-inflammatory into Peripheral Vein, Percutaneous Approach",PARJO,Syn
+1001600,348228,3/18/2018 0:00,icd-10-cm,HZ2ZZZZ,Detoxification Services for Substance Abuse Treatment,ITHPR,Syn
+645721,348228,7/29/2018 0:00,icd-10-cm,HZ2ZZZZ,Detoxification Services for Substance Abuse Treatment,ITHPR,Syn
+953780,23016,12/18/2018 0:00,icd-10-cm,3E033GC,"Introduction of Other Therapeutic Substance into Peripheral Vein, Percutaneous Approach",CIRAN,Syn
+525326,259074,10/22/2018 0:00,icd-10-cm,3E03329,"Introduction of Other Anti-infective into Peripheral Vein, Percutaneous Approach",CIRAN,Syn
+525326,259074,10/22/2018 0:00,icd-10-cm,3E0333Z,"Introduction of Anti-inflammatory into Peripheral Vein, Percutaneous Approach",CIRAN,Syn
+937198,259074,3/19/2018 0:00,icd-10-cm,3E033GC,"Introduction of Other Therapeutic Substance into Peripheral Vein, Percutaneous Approach",MILRA,Syn
+937198,259074,3/19/2018 0:00,icd-10-cm,3E0333Z,"Introduction of Anti-inflammatory into Peripheral Vein, Percutaneous Approach",MILRA,Syn
+719887,43487,6/7/2018 0:00,icd-10-cm,0HQLXZZ,"Repair Left Lower Leg Skin, External Approach",DEANS,Syn
+696895,275729,7/16/2018 0:00,icd-10-cm,0UQGXZZ,"Repair Vagina, External Approach",,Syn
+563697,145642,6/11/2018 0:00,icd-10-cm,CF141ZZ,Planar Nuclear Medicine Imaging of Gallbladder using Technetium 99m (Tc-99m),MARAD,Syn
+636639,60053,2/8/2018 0:00,icd-10-cm,0DBL8ZX,"Excision of Transverse Colon, Via Natural or Artificial Opening Endoscopic, Diagnostic",PETSO,Syn
+798314,201821,8/21/2018 0:00,icd-10-cm,HZ51ZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Behavioral",SHARAN,Syn
+798314,201821,8/19/2018 0:00,icd-10-cm,HZ2ZZZZ,Detoxification Services for Substance Abuse Treatment,SMITHCRA,Syn
+823034,139061,6/12/2018 0:00,icd-10-cm,0SRC0J9,"Replacement of Right Knee Joint with Synthetic Substitute, Cemented, Open Approach",SANCA,Syn
+503298,183915,10/19/2018 0:00,icd-10-cm,F07Z8FZ,"Transfer Training Treatment using Assistive, Adaptive, Supportive or Protective Equipment",OAAP01,Syn
+503298,183915,10/19/2018 0:00,icd-10-cm,F06Z6ZZ,Communicative/Cognitive Integration Skills Treatment,OAAP01,Syn
+503298,183915,10/19/2018 0:00,icd-10-cm,F07Z9FZ,"Gait Training/Functional Ambulation Treatment using Assistive, Adaptive, Supportive or Protective Equipment",OAAP01,Syn
+656785,353548,8/17/2018 0:00,icd-10-cm,6A600ZZ,"Phototherapy of Skin, Single",VELEAMAU,Syn
+656785,353548,7/31/2018 0:00,icd-10-cm,BT43ZZZ,Ultrasonography of Bilateral Kidneys,VELEAMAU,Syn
+656785,353548,8/12/2018 0:00,icd-10-cm,06H033T,"Insertion of Infusion Device, Via Umbilical Vein, into Inferior Vena Cava, Percutaneous Approach",VELEAMAU,Syn
+656785,353548,8/17/2018 0:00,icd-10-cm,F13ZLZZ,Auditory Evoked Potentials Assessment,VELEAMAU,Syn
+656785,353548,8/11/2018 0:00,icd-10-cm,F13ZLZZ,Auditory Evoked Potentials Assessment,VELEAMAU,Syn
+832995,330481,12/31/2018 0:00,icd-10-cm,3E013BZ,"Introduction of Anesthetic Agent into Subcutaneous Tissue, Percutaneous Approach",WATTCH,Syn
+832995,330481,1/1/2019 0:00,icd-10-cm,0SR906A,"Replacement of Right Hip Joint with Oxidized Zirconium on Polyethylene Synthetic Substitute, Uncemented, Open Approach",WATTCH,Syn
+741251,349904,6/17/2018 0:00,icd-10-cm,0VTTXZZ,"Resection of Prepuce, External Approach",TYSZA,Syn
+514945,238422,2/20/2018 0:00,icd-10-cm,B2151ZZ,Fluoroscopy of Left Heart using Low Osmolar Contrast,THOCA,Syn
+514945,238422,2/20/2018 0:00,icd-10-cm,B2111ZZ,Fluoroscopy of Multiple Coronary Arteries using Low Osmolar Contrast,THOCA,Syn
+541713,125400,3/5/2018 0:00,icd-10-cm,3E0234Z,"Introduction of Serum, Toxoid and Vaccine into Muscle, Percutaneous Approach",PONZSHE,Syn
+845607,45568,11/7/2018 0:00,icd-10-cm,03CM0ZZ,"Extirpation of Matter from Right External Carotid Artery, Open Approach",WHIJA,Syn
+1032784,80281,4/11/2018 0:00,icd-10-cm,HZ56ZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Psychoeducation",AXOP06,Syn
+1032784,80281,4/11/2018 0:00,icd-10-cm,HZ2ZZZZ,Detoxification Services for Substance Abuse Treatment,AXOP06,Syn
+1032784,80281,4/11/2018 0:00,icd-10-cm,HZ46ZZZ,"Group Counseling for Substance Abuse Treatment, Psychoeducation",AXOP06,Syn
+1032784,80281,4/11/2018 0:00,icd-10-cm,HZ59ZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Supportive",AXOP06,Syn
+1032784,80281,4/11/2018 0:00,icd-10-cm,HZ42ZZZ,"Group Counseling for Substance Abuse Treatment, Cognitive-Behavioral",AXOP06,Syn
+1032784,80281,4/11/2018 0:00,icd-10-cm,GZ58ZZZ,"Individual Psychotherapy, Cognitive-Behavioral",AXOP06,Syn
+1032784,80281,4/11/2018 0:00,icd-10-cm,HZ52ZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Cognitive-Behavioral",AXOP06,Syn
+1032784,80281,4/11/2018 0:00,icd-10-cm,GZ56ZZZ,"Individual Psychotherapy, Supportive",AXOP06,Syn
+1032784,80281,4/11/2018 0:00,icd-10-cm,GZHZZZZ,Group Psychotherapy,AXOP06,Syn
+1034614,326723,3/13/2018 0:00,icd-10-cm,0JQK0ZZ,"Repair Left Hand Subcutaneous Tissue and Fascia, Open Approach",REIJA,Syn
+1034614,326723,3/13/2018 0:00,icd-10-cm,0LN50ZZ,"Release Right Lower Arm and Wrist Tendon, Open Approach",REIJA,Syn
+1034614,326723,3/13/2018 0:00,icd-10-cm,0JB40ZZ,"Excision of Right Neck Subcutaneous Tissue and Fascia, Open Approach",REIJA,Syn
+1034614,326723,3/13/2018 0:00,icd-10-cm,0RBN0ZZ,"Excision of Right Wrist Joint, Open Approach",REIJA,Syn
+1018577,2118,5/5/2018 0:00,icd-10-cm,0QBN0ZZ,"Excision of Right Metatarsal, Open Approach",WILGJ,Syn
+5.78159E+13,2101841001,1/6/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",GARVI,Syn
+7.6002E+13,3246921001,1/6/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",GARVI,Syn
+5.17014E+13,1071521001,1/6/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",GARVI,Syn
+5.98871E+13,1765201001,1/6/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",GARVI,Syn
+6.21264E+13,1640911001,2/19/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",POUANTOC,Syn
+6.21264E+13,1640911001,5/26/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",,Syn
+7.56756E+13,3300541001,5/26/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",,Syn
+6.06832E+13,2810661001,5/26/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",,Syn
+8.91787E+13,520151001,5/26/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",,Syn
+9.96273E+13,1189121001,4/26/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",VANMI,Syn
+7.38071E+13,1824061001,2/24/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",REDVOC,Syn
+9.21491E+13,939881001,3/14/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",HOFKE,Syn
+6.5583E+13,2291451001,4/21/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",MARJA,Syn
+7.22651E+13,1586421001,3/15/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",WHIWA,Syn
+7.07525E+13,459531001,12/13/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",BROGA,Syn
+9.66824E+13,715691001,8/5/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",SALTH,Syn
+6.29451E+13,2250081001,8/5/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",SALTH,Syn
+6.29451E+13,2250081001,2/16/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",GARVI,Syn
+5.78159E+13,2101841002,2/24/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",DONNI,Syn
+7.6002E+13,3246921002,9/18/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",GRESJO,Syn
+5.17014E+13,1071521002,9/18/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",DAHRNA,Syn
+5.98871E+13,1765201002,7/11/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",MASOS,Syn
+6.21264E+13,1640911002,7/9/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",BOWEL,Syn
+6.21264E+13,1640911002,7/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",DELAH,Syn
+7.56756E+13,3300541002,4/15/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",BHARO,Syn
+6.06832E+13,2810661002,12/13/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",BROGA,Syn
+8.91787E+13,520151002,12/13/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",BROGA,Syn
+9.96273E+13,1189121002,6/12/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",ARAJO,Syn
+7.38071E+13,1824061002,3/19/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",CHATH,Syn
+9.21491E+13,939881002,8/9/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",JAFGH,Syn
+6.5583E+13,2291451002,2/18/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",POUANTOC,Syn
+7.22651E+13,1586421002,7/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",THOKV,Syn
+7.07525E+13,459531002,7/12/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",THOKV,Syn
+9.66824E+13,715691002,6/9/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",JOSMI,Syn
+6.29451E+13,2250081002,5/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",HADMA,Syn
+6.29451E+13,2250081002,4/15/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",BHARO,Syn
+5.78159E+13,2101841003,1/22/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",NICSTE,Syn
+7.6002E+13,3246921003,1/22/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",NICSTE,Syn
+5.17014E+13,1071521003,1/23/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",CARRON,Syn
+5.98871E+13,1765201003,11/7/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",STARRGR,Syn
+6.21264E+13,1640911003,6/23/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",STJOHNGREG,Syn
+6.21264E+13,1640911003,6/23/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",STJOHNGREG,Syn
+7.56756E+13,3300541003,6/23/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",STJOHNGREG,Syn
+6.06832E+13,2810661003,6/23/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",STJOHNGREG,Syn
+8.91787E+13,520151003,1/21/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",ROSKA,Syn
+9.96273E+13,1189121003,2/11/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",RIGGK,Syn
+7.38071E+13,1824061003,9/27/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",DJONES2,Syn
+9.21491E+13,939881003,9/26/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",DJONES2,Syn
+6.5583E+13,2291451003,9/26/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",DJONES2,Syn
+7.22651E+13,1586421003,9/26/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",DJONES2,Syn
+7.07525E+13,459531003,6/7/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",GAIEV,Syn
+9.66824E+13,715691003,11/24/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",YUCON,Syn
+6.29451E+13,2250081003,1/16/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",BOWENTIMOT,Syn
+6.29451E+13,2250081003,1/17/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",BOWENTIMOT,Syn
+5.78159E+13,2101841004,8/23/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",KOZOR,Syn
+7.6002E+13,3246921004,4/7/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",DESTK,Syn
+5.17014E+13,1071521004,5/5/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",HANCH,Syn
+5.98871E+13,1765201004,5/5/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",HANCH,Syn
+6.21264E+13,1640911004,6/24/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",BERKO,Syn
+6.21264E+13,1640911004,5/21/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",HENCH,Syn
+7.56756E+13,3300541004,8/24/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",KOZOR,Syn
+6.06832E+13,2810661004,8/23/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",KOZOR,Syn
+8.91787E+13,520151004,1/26/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",HOFKE,Syn
+9.96273E+13,1189121004,4/16/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",ASASH,Syn
+7.38071E+13,1824061004,7/21/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",CONDA,Syn
+9.21491E+13,939881004,9/26/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",KUREE,Syn
+6.5583E+13,2291451004,9/26/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",KUREE,Syn
+7.22651E+13,1586421004,3/22/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",,Syn
+7.07525E+13,459531004,2/16/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",SENPA,Syn
+9.66824E+13,715691004,1/5/2019 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",JOH0095,Syn
+6.29451E+13,2250081004,9/26/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",DJONES2,Syn
+6.29451E+13,2250081004,9/9/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",,Syn
+5.78159E+13,2101841005,7/22/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",BURKJ,Syn
+7.6002E+13,3246921005,7/22/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",BURKJ,Syn
+5.17014E+13,1071521005,7/22/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",BURKJ,Syn
+5.98871E+13,1765201005,3/11/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",HEIJO,Syn
+6.21264E+13,1640911005,3/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",HEIJO,Syn
+6.21264E+13,1640911005,3/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",HEIJO,Syn
+7.56756E+13,3300541005,2/16/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",LEOAN,Syn
+6.06832E+13,2810661005,4/28/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",PATME,Syn
+8.91787E+13,520151005,3/12/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",CASTJUANC,Syn
+9.96273E+13,1189121005,3/12/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",CASTJUANC,Syn
+7.38071E+13,1824061005,3/12/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",CASTJUANC,Syn
+9.21491E+13,939881005,3/12/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",CASTJUANC,Syn
+6.5583E+13,2291451005,7/7/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",MALPE,Syn
+7.22651E+13,1586421005,10/29/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",POUANTOC,Syn
+7.07525E+13,459531005,11/23/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",POUANTOC,Syn
+9.66824E+13,715691005,10/26/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",POUANTOC,Syn
+6.29451E+13,2250081005,1/2/2019 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",POUANTOC,Syn
+6.29451E+13,2250081005,12/31/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",POUANTOC,Syn
+5.78159E+13,2101841006,4/28/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",,Syn
+7.6002E+13,3246921006,4/27/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",,Syn
+5.17014E+13,1071521006,4/28/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",,Syn
+5.98871E+13,1765201006,7/7/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",QUIED,Syn
+6.21264E+13,1640911006,2/20/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",MEYJO,Syn
+6.21264E+13,1640911006,10/3/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",LARSU,Syn
+7.56756E+13,3300541006,9/28/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",MIC0252,Syn
+6.06832E+13,2810661006,9/27/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",MIC0252,Syn
+8.91787E+13,520151006,9/27/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",MIC0252,Syn
+9.96273E+13,1189121006,9/2/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",CARMA,Syn
+7.38071E+13,1824061006,9/12/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",KAMJI,Syn
+9.21491E+13,939881006,8/27/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",NAZAKE,Syn
+6.5583E+13,2291451006,8/26/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",ATKIHE,Syn
+7.22651E+13,1586421006,2/1/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",LAWPA,Syn
+7.07525E+13,459531006,2/1/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",LAWPA,Syn
+9.66824E+13,715691006,4/28/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",PATME,Syn
+6.29451E+13,2250081006,4/28/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",PATME,Syn
+6.29451E+13,2250081006,2/13/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",JOH0095,Syn
+5.78159E+13,2101841007,6/18/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",SHAFEM,Syn
+7.6002E+13,3246921007,5/20/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",DEANS,Syn
+5.17014E+13,1071521007,4/2/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",CHOUHA,Syn
+5.98871E+13,1765201007,5/23/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",,Syn
+6.21264E+13,1640911007,5/23/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",,Syn
+6.21264E+13,1640911007,11/14/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",SIBMA,Syn
+7.56756E+13,3300541007,12/15/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",SIBMA,Syn
+6.06832E+13,2810661007,6/3/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",KOZOR,Syn
+8.91787E+13,520151007,6/3/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",KOZOR,Syn
+9.96273E+13,1189121007,6/3/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",KOZOR,Syn
+7.38071E+13,1824061007,6/4/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",KOZOR,Syn
+9.21491E+13,939881007,6/3/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",KOZOR,Syn
+6.5583E+13,2291451007,12/30/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",POUANTOC,Syn
+7.22651E+13,1586421007,2/2/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",LEOAN,Syn
+7.07525E+13,459531007,2/2/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",LEOAN,Syn
+9.66824E+13,715691007,1/30/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",MCQUGE,Syn
+6.29451E+13,2250081007,1/30/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",MCQUGE,Syn
+6.29451E+13,2250081007,8/22/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",SMITDAN002,Syn
+5.78159E+13,2101841008,8/22/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",SMITDAN002,Syn
+7.6002E+13,3246921008,8/22/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",SMITDAN002,Syn
+5.17014E+13,1071521008,5/26/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",BONIROSA,Syn
+5.98871E+13,1765201008,2/9/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",SELNO,Syn
+6.21264E+13,1640911008,12/1/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",,Syn
+6.21264E+13,1640911008,12/1/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",,Syn
+7.56756E+13,3300541008,2/19/2019 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",HANBR,Syn
+6.06832E+13,2810661008,2/19/2019 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",HANBR,Syn
+8.91787E+13,520151008,2/24/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",RHORI,Syn
+9.96273E+13,1189121008,1/23/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",BADRAMD,Syn
+7.38071E+13,1824061008,1/23/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",BADRAMD,Syn
+9.21491E+13,939881008,8/10/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",TROTCMD,Syn
+6.5583E+13,2291451008,8/10/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",TROTCMD,Syn
+7.22651E+13,1586421008,5/9/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",GILMA,Syn
+7.07525E+13,459531008,1/30/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",MCQUGE,Syn
+9.66824E+13,715691008,1/8/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",,Syn
+6.29451E+13,2250081008,9/6/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",BATMA,Syn
+6.29451E+13,2250081008,3/9/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",WILSLA,Syn
+5.78159E+13,2101841009,2/20/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",THOCA,Syn
+7.6002E+13,3246921009,7/24/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",HAYMI,Syn
+5.17014E+13,1071521009,9/22/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",SINJU,Syn
+5.98871E+13,1765201009,9/16/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",ROLEA,Syn
+6.21264E+13,1640911009,7/30/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",CASJO,Syn
+6.21264E+13,1640911009,1/19/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",MILRA,Syn
+7.56756E+13,3300541009,6/28/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",KHAZR,Syn
+6.06832E+13,2810661009,6/28/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",KHAZR,Syn
+8.91787E+13,520151009,3/28/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",OLIVERR,Syn
+9.96273E+13,1189121009,3/28/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",OLIVERR,Syn
+7.38071E+13,1824061009,4/6/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",PATEJA,Syn
+9.21491E+13,939881009,4/24/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",WILGJ,Syn
+6.5583E+13,2291451009,2/17/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",KULMI,Syn
+7.22651E+13,1586421009,7/31/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",ISHIKI,Syn
+7.07525E+13,459531009,10/22/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",CIRAN,Syn
+9.66824E+13,715691009,10/22/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",CIRAN,Syn
+6.29451E+13,2250081009,4/6/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",RBBP01,Syn
+6.29451E+13,2250081009,10/29/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",CASJO,Syn
+5.78159E+13,2101841010,1/23/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",SOTO,Syn
+7.6002E+13,3246921010,4/6/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",ROSKA,Syn
+5.17014E+13,1071521010,7/16/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",,Syn
+5.98871E+13,1765201010,3/13/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",PARJO,Syn
+6.21264E+13,1640911010,3/13/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",PARJO,Syn
+6.21264E+13,1640911010,3/18/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",ITHPR,Syn
+7.56756E+13,3300541010,7/29/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",ITHPR,Syn
+6.06832E+13,2810661010,12/18/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",CIRAN,Syn
+8.91787E+13,520151010,10/22/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",CIRAN,Syn
+9.96273E+13,1189121010,10/22/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",CIRAN,Syn
+7.38071E+13,1824061010,3/19/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",MILRA,Syn
+9.21491E+13,939881010,3/19/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",MILRA,Syn
+6.5583E+13,2291451010,6/7/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",DEANS,Syn
+7.22651E+13,1586421010,7/16/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",,Syn
+7.07525E+13,459531010,6/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",MARAD,Syn
+9.66824E+13,715691010,2/8/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",PETSO,Syn
+6.29451E+13,2250081010,8/21/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",SHARAN,Syn
+6.29451E+13,2250081010,8/19/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",SMITHCRA,Syn
+5.78159E+13,2101841011,6/12/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",SANCA,Syn
+7.6002E+13,3246921011,10/19/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",OAAP01,Syn
+5.17014E+13,1071521011,10/19/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",OAAP01,Syn
+5.98871E+13,1765201011,10/19/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",OAAP01,Syn
+6.21264E+13,1640911011,8/17/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",VELEAMAU,Syn
+6.21264E+13,1640911011,7/31/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",VELEAMAU,Syn
+7.56756E+13,3300541011,8/12/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",VELEAMAU,Syn
+6.06832E+13,2810661011,8/17/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",VELEAMAU,Syn
+8.91787E+13,520151011,8/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",VELEAMAU,Syn
+9.96273E+13,1189121011,12/31/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",WATTCH,Syn
+7.38071E+13,1824061011,1/1/2019 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",WATTCH,Syn
+9.21491E+13,939881011,6/17/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",TYSZA,Syn
+6.5583E+13,2291451011,2/20/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",THOCA,Syn
+7.22651E+13,1586421011,2/20/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",THOCA,Syn
+7.07525E+13,459531011,3/5/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",PONZSHE,Syn
+9.66824E+13,715691011,11/7/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",WHIJA,Syn
+6.29451E+13,2250081011,4/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",AXOP06,Syn
+6.29451E+13,2250081011,4/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",AXOP06,Syn
+5.78159E+13,2101841012,4/11/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",AXOP06,Syn
+7.6002E+13,3246921012,4/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",AXOP06,Syn
+5.17014E+13,1071521012,4/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",AXOP06,Syn
+5.98871E+13,1765201012,4/11/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",AXOP06,Syn
+6.21264E+13,1640911012,4/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",AXOP06,Syn
+6.21264E+13,1640911012,4/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",AXOP06,Syn
+7.56756E+13,3300541012,4/11/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",AXOP06,Syn
+6.06832E+13,2810661012,3/13/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",REIJA,Syn
+8.91787E+13,520151012,3/13/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",REIJA,Syn
+9.96273E+13,1189121012,3/13/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",REIJA,Syn
+7.38071E+13,1824061012,3/13/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",REIJA,Syn
+9.21491E+13,939881012,5/5/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",WILGJ,Syn
+6.5583E+13,2291451012,6/17/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",MILRA,Syn
+7.22651E+13,1586421012,2/20/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",DEANS,Syn
+7.07525E+13,459531012,2/20/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",,Syn
+9.66824E+13,715691012,3/5/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",MARAD,Syn
+6.29451E+13,2250081012,11/7/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",PETSO,Syn
+6.29451E+13,2250081012,4/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",SHARAN,Syn
+5.78159E+13,2101841013,4/11/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",SMITHCRA,Syn
+7.6002E+13,3246921013,4/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",SANCA,Syn
+5.17014E+13,1071521013,4/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",OAAP01,Syn
+5.98871E+13,1765201013,4/11/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",OAAP01,Syn
+6.21264E+13,1640911013,4/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",OAAP01,Syn
+6.21264E+13,1640911013,4/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",VELEAMAU,Syn
+7.56756E+13,3300541013,4/11/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",VELEAMAU,Syn
+6.06832E+13,2810661013,4/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",VELEAMAU,Syn
+8.91787E+13,520151013,3/13/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",VELEAMAU,Syn
+9.96273E+13,1189121013,3/13/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",VELEAMAU,Syn
+7.38071E+13,1824061013,6/17/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",WATTCH,Syn
+9.21491E+13,939881013,2/20/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",WATTCH,Syn
+6.5583E+13,2291451013,2/20/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",TYSZA,Syn
+7.22651E+13,1586421013,3/5/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",THOCA,Syn
+7.07525E+13,459531013,11/7/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",THOCA,Syn
+9.66824E+13,715691013,4/11/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",PONZSHE,Syn
+6.29451E+13,2250081013,4/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",WHIJA,Syn
+6.29451E+13,2250081013,4/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",AXOP06,Syn
+5.78159E+13,2101841014,4/11/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",AXOP06,Syn
+7.6002E+13,3246921014,4/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",AXOP06,Syn
+5.17014E+13,1071521014,4/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",AXOP06,Syn
+5.98871E+13,1765201014,4/11/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",AXOP06,Syn
+6.21264E+13,1640911014,4/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",AXOP06,Syn
+6.21264E+13,1640911014,4/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",AXOP06,Syn
+7.56756E+13,3300541014,3/13/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",AXOP06,Syn
+6.06832E+13,2810661014,3/13/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",AXOP06,Syn
+8.91787E+13,520151014,8/17/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",VELEAMAU,Syn
+9.96273E+13,1189121014,7/31/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",VELEAMAU,Syn
+7.38071E+13,1824061014,8/12/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",VELEAMAU,Syn
+9.21491E+13,939881014,8/17/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",VELEAMAU,Syn
+6.5583E+13,2291451014,8/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",VELEAMAU,Syn
+7.22651E+13,1586421014,12/31/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",WATTCH,Syn
+7.07525E+13,459531014,1/1/2019 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",WATTCH,Syn
+9.66824E+13,715691014,6/17/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",TYSZA,Syn
+6.29451E+13,2250081014,2/20/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",THOCA,Syn
+6.29451E+13,2250081014,2/20/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",THOCA,Syn
+5.78159E+13,2101841015,3/5/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",PONZSHE,Syn
+7.6002E+13,3246921015,11/7/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",WHIJA,Syn
+5.17014E+13,1071521015,4/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",AXOP06,Syn
+5.98871E+13,1765201015,4/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",AXOP06,Syn
+6.21264E+13,1640911015,4/11/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",AXOP06,Syn
+6.21264E+13,1640911015,4/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",AXOP06,Syn
+7.56756E+13,3300541015,8/17/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",VELEAMAU,Syn
+6.06832E+13,2810661015,7/31/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",VELEAMAU,Syn
+8.91787E+13,520151015,8/12/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",VELEAMAU,Syn
+9.96273E+13,1189121015,8/17/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",VELEAMAU,Syn
+7.38071E+13,1824061015,8/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",VELEAMAU,Syn
+9.21491E+13,939881015,12/31/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",WATTCH,Syn
+6.5583E+13,2291451015,1/1/2019 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",WATTCH,Syn
+7.22651E+13,1586421015,6/17/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",TYSZA,Syn
+7.07525E+13,459531015,2/20/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",THOCA,Syn
+9.66824E+13,715691015,2/20/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",THOCA,Syn
+6.29451E+13,2250081015,3/5/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",PONZSHE,Syn
+6.29451E+13,2250081015,11/7/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",WHIJA,Syn
+5.78159E+13,2101841016,4/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",AXOP06,Syn
+7.6002E+13,3246921016,4/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",AXOP06,Syn
+5.17014E+13,1071521016,4/11/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",AXOP06,Syn
+5.98871E+13,1765201016,4/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",AXOP06,Syn
+6.21264E+13,1640911016,8/17/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",VELEAMAU,Syn
+6.21264E+13,1640911016,7/31/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",VELEAMAU,Syn
+7.56756E+13,3300541016,8/12/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",VELEAMAU,Syn
+6.06832E+13,2810661016,8/17/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",VELEAMAU,Syn
+8.91787E+13,520151016,8/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",VELEAMAU,Syn
+9.96273E+13,1189121016,12/31/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",WATTCH,Syn
+7.38071E+13,1824061016,1/1/2019 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",WATTCH,Syn
+9.21491E+13,939881016,6/17/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",TYSZA,Syn
+6.5583E+13,2291451016,2/20/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",THOCA,Syn
+7.22651E+13,1586421016,2/20/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",THOCA,Syn
+7.07525E+13,459531016,3/5/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",PONZSHE,Syn
+9.66824E+13,715691016,11/7/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",WHIJA,Syn
+6.29451E+13,2250081016,4/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",AXOP06,Syn
+6.29451E+13,2250081016,4/11/2018 0:00,icd-10-cm,02584ZZ,"Destruction of conduction mechanism, percutaneous endoscopic approach",AXOP06,Syn
+5.78159E+13,2101841017,4/11/2018 0:00,icd-10-cm,02580ZZ,"Destruction of conduction mechanism, open approach",AXOP06,Syn
+7.6002E+13,3246921017,4/11/2018 0:00,icd-10-cm,02583ZZ,"Destruction of conduction mechanism, percutaneous approach",AXOP06,Syn
